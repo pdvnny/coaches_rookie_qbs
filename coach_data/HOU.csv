@@ -1,0 +1,23 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,David Culley,17,4,13,0,0.235,N/A,N/A,N/A,N/A,Tim Kelly,Lovie Smith
+1,2020.0,Romeo Crennel,12,4,8,0,0.333,N/A,N/A,N/A,N/A,Tim Kelly,Anthony Weaver
+2,N/A,Bill O'Brien,4,0,4,0,0.0,N/A,N/A,N/A,N/A,Tim Kelly,Anthony Weaver
+3,2019.0,Bill O'Brien,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Tim Kelly,Romeo Crennel
+4,2018.0,Bill O'Brien,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,N/A,Romeo Crennel
+5,2017.0,Bill O'Brien,16,4,12,0,0.25,N/A,N/A,N/A,N/A,N/A,Mike Vrabel
+6,2016.0,Bill O'Brien,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,George Godsey,Romeo Crennel
+7,2015.0,Bill O'Brien,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,George Godsey,Romeo Crennel
+8,2014.0,Bill O'Brien,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,Romeo Crennel
+9,2013.0,Wade Phillips,3,0,3,0,0.0,0.0,0.0,0.0,N/A,Rick Dennison,N/A
+10,N/A,Gary Kubiak,13,2,11,0,0.154,0.0,0.0,0.0,N/A,Rick Dennison,Wade Phillips
+11,2012.0,Gary Kubiak,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Rick Dennison,Wade Phillips
+12,2011.0,Gary Kubiak,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Rick Dennison,Wade Phillips
+13,2010.0,Gary Kubiak,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Rick Dennison,Frank Bush
+14,2009.0,Gary Kubiak,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Kyle Shanahan,Frank Bush
+15,2008.0,Gary Kubiak,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Kyle Shanahan,Richard Smith
+16,2007.0,Gary Kubiak,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike Sherman,Richard Smith
+17,2006.0,Gary Kubiak,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Troy Calhoun,Richard Smith
+18,2005.0,Dom Capers,16,2,14,0,0.125,0.0,0.0,0.0,N/A,"Chris Palmer, Joe Pendry",Vic Fangio
+19,2004.0,Dom Capers,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Chris Palmer,Vic Fangio
+20,2003.0,Dom Capers,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Chris Palmer,Vic Fangio
+21,2002.0,Dom Capers,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Chris Palmer,Vic Fangio

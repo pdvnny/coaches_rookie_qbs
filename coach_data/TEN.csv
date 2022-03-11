@@ -1,0 +1,69 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Mike Vrabel,17,12,5,0,0.706,1.0,0.0,1.0,Lost Div,Todd Downing,Shane Bowen
+1,2020.0,Mike Vrabel,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Arthur Smith,N/A
+2,2019.0,Mike Vrabel,16,9,7,0,0.563,3.0,2.0,1.0,Lost Conf,Arthur Smith,Dean Pees
+3,2018.0,Mike Vrabel,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Matt LaFleur,Dean Pees
+4,2017.0,Mike Mularkey,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Terry Robiskie,Dick LeBeau
+5,2016.0,Mike Mularkey,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Terry Robiskie,Dick LeBeau
+6,2015.0,Mike Mularkey,9,2,7,0,0.222,N/A,N/A,N/A,N/A,Jason Michael,Ray Horton
+7,N/A,Ken Whisenhunt,7,1,6,0,0.143,0.0,0.0,0.0,N/A,Jason Michael,Ray Horton
+8,2014.0,Ken Whisenhunt,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jason Michael,Ray Horton
+9,2013.0,Mike Munchak,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Dowell Loggains,Jerry Gray
+10,2012.0,Mike Munchak,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Chris Palmer,Jerry Gray
+11,2011.0,Mike Munchak,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Chris Palmer,Jerry Gray
+12,2010.0,Jeff Fisher,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Mike Heimerdinger,Chuck Cecil
+13,2009.0,Jeff Fisher,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike Heimerdinger,Chuck Cecil
+14,2008.0,Jeff Fisher,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Mike Heimerdinger,Jim Schwartz
+15,2007.0,Jeff Fisher,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Norm Chow,Jim Schwartz
+16,2006.0,Jeff Fisher,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Norm Chow,Jim Schwartz
+17,2005.0,Jeff Fisher,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Norm Chow,Jim Schwartz
+18,2004.0,Jeff Fisher,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Mike Heimerdinger,Jim Schwartz
+19,2003.0,Jeff Fisher,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Mike Heimerdinger,Jim Schwartz
+20,2002.0,Jeff Fisher,16,11,5,0,0.688,2.0,1.0,1.0,Lost Conf,Mike Heimerdinger,Jim Schwartz
+21,2001.0,Jeff Fisher,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mike Heimerdinger,Jim Schwartz
+22,2000.0,Jeff Fisher,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Mike Heimerdinger,Gregg Williams
+23,1999.0,Jeff Fisher,16,13,3,0,0.813,4.0,3.0,1.0,Lost SB,Les Steckel,Gregg Williams
+24,1998.0,Jeff Fisher,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Les Steckel,Gregg Williams
+25,1997.0,Jeff Fisher,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Les Steckel,Gregg Williams
+26,1996.0,Jeff Fisher,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jerry Rhome,Steve Sidwell
+27,1995.0,Jeff Fisher,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jerry Rhome,Steve Sidwell
+28,1994.0,Jeff Fisher,6,1,5,0,0.167,0.0,0.0,0.0,N/A,"Dick Coury, Kevin Gilbride",N/A
+29,N/A,Jack Pardee,10,1,9,0,0.1,0.0,0.0,0.0,N/A,"Dick Coury, Kevin Gilbride",Jeff Fisher
+30,1993.0,Jack Pardee,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,Kevin Gilbride,Buddy Ryan
+31,1992.0,Jack Pardee,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Kevin Gilbride,Jim Eddy
+32,1991.0,Jack Pardee,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Kevin Gilbride,Jim Eddy
+33,1990.0,Jack Pardee,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Kevin Gilbride,Jim Eddy
+34,1989.0,Jerry Glanville,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Kevin Gilbride,N/A
+35,1988.0,Jerry Glanville,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,N/A,N/A
+36,1987.0,Jerry Glanville,15,9,6,0,0.6,2.0,1.0,1.0,Lost Div,Dick Jamieson,N/A
+37,1986.0,Jerry Glanville,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Dick Jamieson,N/A
+38,1985.0,Jerry Glanville,2,0,2,0,0.0,0.0,0.0,0.0,N/A,Joe Faragalli,N/A
+39,N/A,Hugh Campbell,14,5,9,0,0.357,0.0,0.0,0.0,N/A,Joe Faragalli,Jerry Glanville
+40,1984.0,Hugh Campbell,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Kay Dalton,Jerry Glanville
+41,1983.0,Chuck Studley,10,2,8,0,0.2,0.0,0.0,0.0,N/A,Kay Dalton,N/A
+42,N/A,Ed Biles,6,0,6,0,0.0,0.0,0.0,0.0,N/A,Kay Dalton,Chuck Studley
+43,1982.0,Ed Biles,9,1,8,0,0.111,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+44,1981.0,Ed Biles,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jim Shofner,Dick Nolan
+45,1980.0,Bum Phillips,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,N/A,Ed Biles
+46,1979.0,Bum Phillips,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,N/A,Ed Biles
+47,1978.0,Bum Phillips,16,10,6,0,0.625,3.0,2.0,1.0,Lost Conf,Ken Shipp,Ed Biles
+48,1977.0,Bum Phillips,14,8,6,0,0.571,0.0,0.0,0.0,N/A,Ken Shipp,Ed Biles
+49,1976.0,Bum Phillips,14,5,9,0,0.357,0.0,0.0,0.0,N/A,King Hill,Ed Biles
+50,1975.0,Bum Phillips,14,10,4,0,0.714,0.0,0.0,0.0,N/A,King Hill,Ed Biles
+51,1974.0,Sid Gillman,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Bum Phillips
+52,1973.0,Bill Peterson,5,0,5,0,0.0,0.0,0.0,0.0,N/A,N/A,Burnie Miller
+53,N/A,Sid Gillman,9,1,8,0,0.111,0.0,0.0,0.0,N/A,N/A,Burnie Miller
+54,1972.0,Bill Peterson,14,1,13,0,0.071,0.0,0.0,0.0,N/A,N/A,N/A
+55,1971.0,Ed Hughes,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,N/A
+56,1970.0,Wally Lemm,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+57,1969.0,Wally Lemm,14,6,6,2,0.5,1.0,0.0,1.0,Lost Div,N/A,N/A
+58,1968.0,Wally Lemm,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+59,1967.0,Wally Lemm,14,9,4,1,0.692,1.0,0.0,1.0,Lost Conf,N/A,N/A
+60,1966.0,Wally Lemm,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A
+61,1965.0,Hugh Taylor,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+62,1964.0,Sammy Baugh,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+63,1963.0,Pop Ivy,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+64,1962.0,Pop Ivy,14,11,3,0,0.786,1.0,0.0,1.0,Lost Champ,N/A,N/A
+65,1961.0,Wally Lemm,9,9,0,0,1.0,1.0,1.0,0.0,Won Champ,N/A,N/A
+66,N/A,Lou Rymkus,5,1,3,1,0.25,0.0,0.0,0.0,Won Champ,N/A,N/A
+67,1960.0,Lou Rymkus,14,10,4,0,0.714,1.0,1.0,0.0,Won Champ,N/A,N/A

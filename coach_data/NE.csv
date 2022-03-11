@@ -1,0 +1,69 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Bill Belichick,17,10,7,0,0.588,1.0,0.0,1.0,Lost WC,Josh McDaniels,N/A
+1,2020.0,Bill Belichick,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Josh McDaniels,N/A
+2,2019.0,Bill Belichick,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Josh McDaniels,N/A
+3,2018.0,Bill Belichick,16,11,5,0,0.688,3.0,3.0,0.0,Won SB,Josh McDaniels,N/A
+4,2017.0,Bill Belichick,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Josh McDaniels,Matt Patricia
+5,2016.0,Bill Belichick,16,14,2,0,0.875,3.0,3.0,0.0,Won SB,Josh McDaniels,Matt Patricia
+6,2015.0,Bill Belichick,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Josh McDaniels,Matt Patricia
+7,2014.0,Bill Belichick,16,12,4,0,0.75,3.0,3.0,0.0,Won SB,Josh McDaniels,Matt Patricia
+8,2013.0,Bill Belichick,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Josh McDaniels,Matt Patricia
+9,2012.0,Bill Belichick,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Josh McDaniels,Matt Patricia
+10,2011.0,Bill Belichick,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Bill O'Brien,N/A
+11,2010.0,Bill Belichick,16,14,2,0,0.875,1.0,0.0,1.0,Lost Div,N/A,N/A
+12,2009.0,Bill Belichick,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,N/A,Dean Pees
+13,2008.0,Bill Belichick,16,11,5,0,0.688,0.0,0.0,0.0,N/A,Josh McDaniels,Dean Pees
+14,2007.0,Bill Belichick,16,16,0,0,1.0,3.0,2.0,1.0,Lost SB,Josh McDaniels,Dean Pees
+15,2006.0,Bill Belichick,16,12,4,0,0.75,3.0,2.0,1.0,Lost Conf,Josh McDaniels,Dean Pees
+16,2005.0,Bill Belichick,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,N/A,Eric Mangini
+17,2004.0,Bill Belichick,16,14,2,0,0.875,3.0,3.0,0.0,Won SB,Charlie Weis,Romeo Crennel
+18,2003.0,Bill Belichick,16,14,2,0,0.875,3.0,3.0,0.0,Won SB,Charlie Weis,Romeo Crennel
+19,2002.0,Bill Belichick,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Charlie Weis,Romeo Crennel
+20,2001.0,Bill Belichick,16,11,5,0,0.688,3.0,3.0,0.0,Won SB,Charlie Weis,Romeo Crennel
+21,2000.0,Bill Belichick,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Charlie Weis,N/A
+22,1999.0,Pete Carroll,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Ernie Zampese,Steve Sidwell
+23,1998.0,Pete Carroll,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Ernie Zampese,Steve Sidwell
+24,1997.0,Pete Carroll,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Larry Kennan,Steve Sidwell
+25,1996.0,Bill Parcells,16,11,5,0,0.688,3.0,2.0,1.0,Lost SB,Ray Perkins,Al Groh
+26,1995.0,Bill Parcells,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Ray Perkins,Al Groh
+27,1994.0,Bill Parcells,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Ray Perkins,Al Groh
+28,1993.0,Bill Parcells,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Ray Perkins,Al Groh
+29,1992.0,Dick MacPherson,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Dick Coury,Joe Collier
+30,1991.0,Dick MacPherson,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Dick Coury,Joe Collier
+31,1990.0,Rod Rust,16,1,15,0,0.063,0.0,0.0,0.0,N/A,Jimmy Raye,Charlie Sumner
+32,1989.0,Raymond Berry,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,N/A
+33,1988.0,Raymond Berry,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,N/A
+34,1987.0,Raymond Berry,15,8,7,0,0.533,0.0,0.0,0.0,N/A,N/A,Rod Rust
+35,1986.0,Raymond Berry,16,11,5,0,0.688,1.0,0.0,1.0,Lost Div,N/A,Rod Rust
+36,1985.0,Raymond Berry,16,11,5,0,0.688,4.0,3.0,1.0,Lost SB,N/A,Rod Rust
+37,1984.0,Raymond Berry,8,4,4,0,0.5,0.0,0.0,0.0,N/A,Lew Erber,Rod Rust
+38,N/A,Ron Meyer,8,5,3,0,0.625,0.0,0.0,0.0,N/A,Lew Erber,Rod Rust
+39,1983.0,Ron Meyer,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Lew Erber,Rod Rust
+40,1982.0,Ron Meyer,9,5,4,0,0.556,1.0,0.0,1.0,Lost WC,Lew Erber,Jim Mora
+41,1981.0,Ron Erhardt,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jim Ringo,Fritz Shurmur
+42,1980.0,Ron Erhardt,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Jim Ringo,Fritz Shurmur
+43,1979.0,Ron Erhardt,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Jim Ringo,Hank Bullough
+44,1978.0,Chuck Fairbanks,15,11,4,0,0.733,1.0,0.0,1.0,Lost Div,Ron Erhardt,Hank Bullough
+45,N/A,Ron Erhardt,1,0,1,0,0.0,0.0,0.0,0.0,Lost Div,N/A,Hank Bullough
+46,N/A,Hank Bullough,1,0,1,0,0.0,0.0,0.0,0.0,Lost Div,Ron Erhardt,N/A
+47,1977.0,Chuck Fairbanks,14,9,5,0,0.643,0.0,0.0,0.0,N/A,Ron Erhardt,N/A
+48,1976.0,Chuck Fairbanks,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,N/A,N/A
+49,1975.0,Chuck Fairbanks,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A
+50,1974.0,Chuck Fairbanks,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+51,1973.0,Chuck Fairbanks,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,N/A
+52,1972.0,Phil Bengtson,5,1,4,0,0.2,0.0,0.0,0.0,N/A,N/A,Dick Evans
+53,N/A,John Mazur,9,2,7,0,0.222,0.0,0.0,0.0,N/A,N/A,Dick Evans
+54,1971.0,John Mazur,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,Dick Evans
+55,1970.0,John Mazur,7,1,6,0,0.143,0.0,0.0,0.0,N/A,N/A,Bill Elias
+56,N/A,Clive Rush,7,1,6,0,0.143,0.0,0.0,0.0,N/A,John Mazur,Bill Elias
+57,1969.0,Clive Rush,14,4,10,0,0.286,0.0,0.0,0.0,N/A,John Mazur,N/A
+58,1968.0,Mike Holovak,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+59,1967.0,Mike Holovak,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+60,1966.0,Mike Holovak,14,8,4,2,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+61,1965.0,Mike Holovak,14,4,8,2,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+62,1964.0,Mike Holovak,14,10,3,1,0.769,0.0,0.0,0.0,N/A,N/A,N/A
+63,1963.0,Mike Holovak,14,7,6,1,0.538,2.0,1.0,1.0,Lost Champ,N/A,N/A
+64,1962.0,Mike Holovak,14,9,4,1,0.692,0.0,0.0,0.0,N/A,N/A,N/A
+65,1961.0,Mike Holovak,9,7,1,1,0.875,0.0,0.0,0.0,N/A,N/A,N/A
+66,N/A,Lou Saban,5,2,3,0,0.4,0.0,0.0,0.0,N/A,N/A,N/A
+67,1960.0,Lou Saban,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,N/A

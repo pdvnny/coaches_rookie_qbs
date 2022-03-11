@@ -26,6 +26,7 @@ team = "nyj"
 
 r = requests.get(pfr_teams_site + team + suffix)
 
+# Previewing info about the response
 # print(r.headers)
 # print(r.text)
 
@@ -48,6 +49,7 @@ print(df.columns)
 
 df.columns = ["year","coach","regular_season_games","wins","losses","ties","win_percentage","playoff_games","playoff_wins","playoff_losses",\
                                   "playoff_result","coordinator_offense","coordinator_defense"]
+
 #df.rename(columns={'Year':"year",'Coach':"coach",'G':"regular_season_games",'W':"win",'L':"loss",'T':"tie",'W-L%':"win_percentage"}, inplace=True)
                    # ,"playoff_games","playoff_win","playoff_loss","playoff_result","coordinator_offense","coordinator_defense"})
 # df.astype({"year":"int64"}).dtypes

@@ -1,0 +1,95 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Nick Sirianni,17,9,8,0,0.529,1.0,0.0,1.0,Lost WC,Shane Steichen,Jonathan Gannon
+1,2020.0,Doug Pederson,16,4,11,1,0.281,N/A,N/A,N/A,N/A,N/A,Jim Schwartz
+2,2019.0,Doug Pederson,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Mike Groh,Jim Schwartz
+3,2018.0,Doug Pederson,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Mike Groh,Jim Schwartz
+4,2017.0,Doug Pederson,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Frank Reich,Jim Schwartz
+5,2016.0,Doug Pederson,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Frank Reich,Jim Schwartz
+6,2015.0,Pat Shurmur,1,1,0,0,1.0,N/A,N/A,N/A,N/A,N/A,Bill Davis
+7,N/A,Chip Kelly,15,6,9,0,0.4,0.0,0.0,0.0,N/A,Pat Shurmur,Bill Davis
+8,2014.0,Chip Kelly,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Pat Shurmur,Bill Davis
+9,2013.0,Chip Kelly,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Pat Shurmur,Bill Davis
+10,2012.0,Andy Reid,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Marty Mornhinweg,"Todd Bowles, Juan Castillo"
+11,2011.0,Andy Reid,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Marty Mornhinweg,Juan Castillo
+12,2010.0,Andy Reid,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Marty Mornhinweg,Sean McDermott
+13,2009.0,Andy Reid,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Marty Mornhinweg,Sean McDermott
+14,2008.0,Andy Reid,16,9,6,1,0.594,3.0,2.0,1.0,Lost Conf,Marty Mornhinweg,Jim Johnson
+15,2007.0,Andy Reid,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Marty Mornhinweg,Jim Johnson
+16,2006.0,Andy Reid,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Marty Mornhinweg,Jim Johnson
+17,2005.0,Andy Reid,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Brad Childress,Jim Johnson
+18,2004.0,Andy Reid,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Brad Childress,Jim Johnson
+19,2003.0,Andy Reid,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Brad Childress,Jim Johnson
+20,2002.0,Andy Reid,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Brad Childress,Jim Johnson
+21,2001.0,Andy Reid,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,Rod Dowhower,Jim Johnson
+22,2000.0,Andy Reid,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Rod Dowhower,Jim Johnson
+23,1999.0,Andy Reid,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Rod Dowhower,Jim Johnson
+24,1998.0,Ray Rhodes,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Dana Bible,Emmitt Thomas
+25,1997.0,Ray Rhodes,16,6,9,1,0.406,0.0,0.0,0.0,N/A,Jon Gruden,Emmitt Thomas
+26,1996.0,Ray Rhodes,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Jon Gruden,Emmitt Thomas
+27,1995.0,Ray Rhodes,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Jon Gruden,Emmitt Thomas
+28,1994.0,Rich Kotite,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Zeke Bratkowski,Bud Carson
+29,1993.0,Rich Kotite,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Zeke Bratkowski,Bud Carson
+30,1992.0,Rich Kotite,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,N/A,Bud Carson
+31,1991.0,Rich Kotite,16,10,6,0,0.625,0.0,0.0,0.0,N/A,N/A,Bud Carson
+32,1990.0,Buddy Ryan,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Rich Kotite,Jeff Fisher
+33,1989.0,Buddy Ryan,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Ted Plumb,Jeff Fisher
+34,1988.0,Buddy Ryan,16,10,6,0,0.625,1.0,0.0,1.0,Lost Div,Ted Plumb,Wade Phillips
+35,1987.0,Buddy Ryan,15,7,8,0,0.467,0.0,0.0,0.0,N/A,Ted Plumb,Wade Phillips
+36,1986.0,Buddy Ryan,16,5,10,1,0.344,0.0,0.0,0.0,N/A,Ted Plumb,Wade Phillips
+37,1985.0,Fred Bruney,1,1,0,0,1.0,0.0,0.0,0.0,N/A,Ted Marchibroda,N/A
+38,N/A,Marion Campbell,15,6,9,0,0.4,0.0,0.0,0.0,N/A,Ted Marchibroda,N/A
+39,1984.0,Marion Campbell,16,6,9,1,0.406,0.0,0.0,0.0,N/A,Ted Marchibroda,N/A
+40,1983.0,Marion Campbell,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Dick Wood,N/A
+41,1982.0,Dick Vermeil,9,3,6,0,0.333,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+42,1981.0,Dick Vermeil,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,N/A,Marion Campbell
+43,1980.0,Dick Vermeil,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,N/A,Marion Campbell
+44,1979.0,Dick Vermeil,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,N/A,Marion Campbell
+45,1978.0,Dick Vermeil,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,John Ralston,Marion Campbell
+46,1977.0,Dick Vermeil,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+47,1976.0,Dick Vermeil,14,4,10,0,0.286,0.0,0.0,0.0,N/A,John Idzik,John Mazur
+48,1975.0,Mike McCormack,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,Walt Michaels
+49,1974.0,Mike McCormack,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Walt Michaels
+50,1973.0,Mike McCormack,14,5,8,1,0.393,0.0,0.0,0.0,N/A,N/A,Walt Michaels
+51,1972.0,Ed Khayat,14,2,11,1,0.179,0.0,0.0,0.0,N/A,Tom Fears,Walt Michaels
+52,1971.0,Ed Khayat,11,6,4,1,0.6,0.0,0.0,0.0,N/A,Tom Fears,N/A
+53,N/A,Jerry Williams,3,0,3,0,0.0,0.0,0.0,0.0,N/A,Tom Fears,N/A
+54,1970.0,Jerry Williams,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+55,1969.0,Jerry Williams,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,N/A
+56,1968.0,Joe Kuharich,14,2,12,0,0.143,0.0,0.0,0.0,N/A,Herman Ball,Dick Evans
+57,1967.0,Joe Kuharich,14,6,7,1,0.462,0.0,0.0,0.0,N/A,Herman Ball,Dick Evans
+58,1966.0,Joe Kuharich,14,9,5,0,0.643,0.0,0.0,0.0,N/A,Herman Ball,Dick Evans
+59,1965.0,Joe Kuharich,14,5,9,0,0.357,0.0,0.0,0.0,N/A,Herman Ball,Dick Evans
+60,1964.0,Joe Kuharich,14,6,8,0,0.429,0.0,0.0,0.0,N/A,Herman Ball,Dick Evans
+61,1963.0,Nick Skorich,14,2,10,2,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+62,1962.0,Nick Skorich,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+63,1961.0,Nick Skorich,14,10,4,0,0.714,0.0,0.0,0.0,N/A,N/A,N/A
+64,1960.0,Buck Shaw,12,10,2,0,0.833,1.0,1.0,0.0,Won Champ,N/A,N/A
+65,1959.0,Buck Shaw,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+66,1958.0,Buck Shaw,12,2,9,1,0.182,0.0,0.0,0.0,N/A,N/A,N/A
+67,1957.0,Hugh Devore,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+68,1956.0,Hugh Devore,12,3,8,1,0.273,0.0,0.0,0.0,N/A,N/A,N/A
+69,1955.0,Jim Trimble,12,4,7,1,0.364,0.0,0.0,0.0,N/A,N/A,N/A
+70,1954.0,Jim Trimble,12,7,4,1,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+71,1953.0,Jim Trimble,12,7,4,1,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+72,1952.0,Jim Trimble,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+73,1951.0,Wayne Millner,10,2,8,0,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+74,N/A,Bo McMillin,2,2,0,0,1.0,0.0,0.0,0.0,N/A,N/A,N/A
+75,1950.0,Greasy Neale,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+76,1949.0,Greasy Neale,12,11,1,0,0.917,1.0,1.0,0.0,Won Champ,N/A,N/A
+77,1948.0,Greasy Neale,12,9,2,1,0.818,1.0,1.0,0.0,Won Champ,N/A,N/A
+78,1947.0,Greasy Neale,12,8,4,0,0.667,2.0,1.0,1.0,Lost Champ,N/A,N/A
+79,1946.0,Greasy Neale,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+80,1945.0,Greasy Neale,10,7,3,0,0.7,0.0,0.0,0.0,N/A,N/A,N/A
+81,1944.0,Greasy Neale,10,7,1,2,0.875,0.0,0.0,0.0,N/A,N/A,N/A
+82,1943.0,Greasy Neale,10,5,4,1,0.556,0.0,0.0,0.0,N/A,N/A,N/A
+83,N/A,Walt Kiesling,10,5,4,1,0.556,0.0,0.0,0.0,N/A,N/A,N/A
+84,1942.0,Greasy Neale,11,2,9,0,0.182,0.0,0.0,0.0,N/A,N/A,N/A
+85,1941.0,Greasy Neale,11,2,8,1,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+86,1940.0,Bert Bell,11,1,10,0,0.091,0.0,0.0,0.0,N/A,N/A,N/A
+87,1939.0,Bert Bell,11,1,9,1,0.1,0.0,0.0,0.0,N/A,N/A,N/A
+88,1938.0,Bert Bell,11,5,6,0,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+89,1937.0,Bert Bell,11,2,8,1,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+90,1936.0,Bert Bell,12,1,11,0,0.083,0.0,0.0,0.0,N/A,N/A,N/A
+91,1935.0,Lud Wray,11,2,9,0,0.182,0.0,0.0,0.0,N/A,N/A,N/A
+92,1934.0,Lud Wray,11,4,7,0,0.364,0.0,0.0,0.0,N/A,N/A,N/A
+93,1933.0,Lud Wray,9,3,5,1,0.375,0.0,0.0,0.0,N/A,N/A,N/A

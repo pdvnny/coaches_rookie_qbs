@@ -1,0 +1,58 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Zac Taylor,17,10,7,0,0.588,4.0,3.0,1.0,Lost SB,Brian Callahan,Lou Anarumo
+1,2020.0,Zac Taylor,16,4,11,1,0.281,N/A,N/A,N/A,N/A,Brian Callahan,Lou Anarumo
+2,2019.0,Zac Taylor,16,2,14,0,0.125,N/A,N/A,N/A,N/A,Brian Callahan,Lou Anarumo
+3,2018.0,Marvin Lewis,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Bill Lazor,Teryl Austin
+4,2017.0,Marvin Lewis,16,7,9,0,0.438,N/A,N/A,N/A,N/A,"Bill Lazor, Ken Zampese",Paul Guenther
+5,2016.0,Marvin Lewis,16,6,9,1,0.406,N/A,N/A,N/A,N/A,Ken Zampese,Paul Guenther
+6,2015.0,Marvin Lewis,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Hue Jackson,Paul Guenther
+7,2014.0,Marvin Lewis,16,10,5,1,0.656,1.0,0.0,1.0,Lost WC,Hue Jackson,Paul Guenther
+8,2013.0,Marvin Lewis,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Jay Gruden,Mike Zimmer
+9,2012.0,Marvin Lewis,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Jay Gruden,Mike Zimmer
+10,2011.0,Marvin Lewis,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Jay Gruden,Mike Zimmer
+11,2010.0,Marvin Lewis,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Bob Bratkowski,Mike Zimmer
+12,2009.0,Marvin Lewis,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Bob Bratkowski,Mike Zimmer
+13,2008.0,Marvin Lewis,16,4,11,1,0.281,0.0,0.0,0.0,N/A,Bob Bratkowski,Mike Zimmer
+14,2007.0,Marvin Lewis,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bob Bratkowski,Chuck Bresnahan
+15,2006.0,Marvin Lewis,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Chuck Bresnahan
+16,2005.0,Marvin Lewis,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Bob Bratkowski,Chuck Bresnahan
+17,2004.0,Marvin Lewis,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Leslie Frazier
+18,2003.0,Marvin Lewis,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Leslie Frazier
+19,2002.0,Dick LeBeau,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Bob Bratkowski,Mark Duffner
+20,2001.0,Dick LeBeau,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Bob Bratkowski,Mark Duffner
+21,2000.0,Dick LeBeau,13,4,9,0,0.308,0.0,0.0,0.0,N/A,Ken Anderson,N/A
+22,N/A,Bruce Coslet,3,0,3,0,0.0,0.0,0.0,0.0,N/A,Ken Anderson,Dick LeBeau
+23,1999.0,Bruce Coslet,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Ken Anderson,Dick LeBeau
+24,1998.0,Bruce Coslet,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Ken Anderson,Dick LeBeau
+25,1997.0,Bruce Coslet,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Ken Anderson,Dick LeBeau
+26,1996.0,Bruce Coslet,9,7,2,0,0.778,0.0,0.0,0.0,N/A,Ken Anderson,Larry Peccatiello
+27,N/A,David Shula,7,1,6,0,0.143,0.0,0.0,0.0,N/A,"Ken Anderson, Bruce Coslet",Larry Peccatiello
+28,1995.0,David Shula,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bruce Coslet,Larry Peccatiello
+29,1994.0,David Shula,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Bruce Coslet,Larry Peccatiello
+30,1993.0,David Shula,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Mike Pope,Ron Lynn
+31,1992.0,David Shula,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Ron Lynn
+32,1991.0,Sam Wyche,16,3,13,0,0.188,0.0,0.0,0.0,N/A,N/A,Dick LeBeau
+33,1990.0,Sam Wyche,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,N/A,Dick LeBeau
+34,1989.0,Sam Wyche,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bruce Coslet,Dick LeBeau
+35,1988.0,Sam Wyche,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Bruce Coslet,Dick LeBeau
+36,1987.0,Sam Wyche,15,4,11,0,0.267,0.0,0.0,0.0,N/A,Bruce Coslet,Dick LeBeau
+37,1986.0,Sam Wyche,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Bruce Coslet,Dick LeBeau
+38,1985.0,Sam Wyche,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Dick LeBeau
+39,1984.0,Sam Wyche,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Dick LeBeau
+40,1983.0,Forrest Gregg,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+41,1982.0,Forrest Gregg,9,7,2,0,0.778,1.0,0.0,1.0,Lost WC,Lindy Infante,Hank Bullough
+42,1981.0,Forrest Gregg,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Lindy Infante,Hank Bullough
+43,1980.0,Forrest Gregg,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+44,1979.0,Homer Rice,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Howard Brinker
+45,1978.0,Homer Rice,11,4,7,0,0.364,0.0,0.0,0.0,N/A,N/A,Howard Brinker
+46,N/A,Bill Johnson,5,0,5,0,0.0,0.0,0.0,0.0,N/A,N/A,Howard Brinker
+47,1977.0,Bill Johnson,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,Howard Brinker
+48,1976.0,Bill Johnson,14,10,4,0,0.714,0.0,0.0,0.0,N/A,N/A,Howard Brinker
+49,1975.0,Paul Brown,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,N/A,Chuck Weber
+50,1974.0,Paul Brown,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Chuck Weber
+51,1973.0,Paul Brown,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,Chuck Weber
+52,1972.0,Paul Brown,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,Chuck Weber
+53,1971.0,Paul Brown,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,Chuck Weber
+54,1970.0,Paul Brown,14,8,6,0,0.571,1.0,0.0,1.0,Lost Div,N/A,Chuck Weber
+55,1969.0,Paul Brown,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,Tom Bass
+56,1968.0,Paul Brown,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A

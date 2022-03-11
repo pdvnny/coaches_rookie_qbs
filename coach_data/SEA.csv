@@ -1,0 +1,48 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Pete Carroll,17,7,10,0,0.412,N/A,N/A,N/A,N/A,Shane Waldron,Ken Norton
+1,2020.0,Pete Carroll,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Brian Schottenheimer,Ken Norton
+2,2019.0,Pete Carroll,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Brian Schottenheimer,Ken Norton
+3,2018.0,Pete Carroll,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Brian Schottenheimer,Ken Norton
+4,2017.0,Pete Carroll,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Darrell Bevell,Kris Richard
+5,2016.0,Pete Carroll,16,10,5,1,0.656,2.0,1.0,1.0,Lost Div,Darrell Bevell,Kris Richard
+6,2015.0,Pete Carroll,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Darrell Bevell,Kris Richard
+7,2014.0,Pete Carroll,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Darrell Bevell,Dan Quinn
+8,2013.0,Pete Carroll,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Darrell Bevell,Dan Quinn
+9,2012.0,Pete Carroll,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Darrell Bevell,Gus Bradley
+10,2011.0,Pete Carroll,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Darrell Bevell,Gus Bradley
+11,2010.0,Pete Carroll,16,7,9,0,0.438,2.0,1.0,1.0,Lost Div,Jeremy Bates,Gus Bradley
+12,2009.0,Jim Mora,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Greg Knapp,Gus Bradley
+13,2008.0,Mike Holmgren,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Gil Haskell,John Marshall
+14,2007.0,Mike Holmgren,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Gil Haskell,John Marshall
+15,2006.0,Mike Holmgren,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Gil Haskell,John Marshall
+16,2005.0,Mike Holmgren,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Gil Haskell,"John Marshall, Ray Rhodes"
+17,2004.0,Mike Holmgren,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Gil Haskell,Ray Rhodes
+18,2003.0,Mike Holmgren,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Gil Haskell,Ray Rhodes
+19,2002.0,Mike Holmgren,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Gil Haskell,Steve Sidwell
+20,2001.0,Mike Holmgren,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Gil Haskell,Steve Sidwell
+21,2000.0,Mike Holmgren,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Gil Haskell,Steve Sidwell
+22,1999.0,Mike Holmgren,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Mike Sherman,Jim Lind
+23,1998.0,Dennis Erickson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Greg McMackin
+24,1997.0,Dennis Erickson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Greg McMackin
+25,1996.0,Dennis Erickson,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bob Bratkowski,Greg McMackin
+26,1995.0,Dennis Erickson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Bratkowski,Greg McMackin
+27,1994.0,Tom Flores,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Larry Kennan,Rusty Tillman
+28,1993.0,Tom Flores,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Larry Kennan,Rusty Tillman
+29,1992.0,Tom Flores,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Larry Kennan,Tom Catlin
+30,1991.0,Chuck Knox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,John Becker,Tom Catlin
+31,1990.0,Chuck Knox,16,9,7,0,0.563,0.0,0.0,0.0,N/A,John Becker,Tom Catlin
+32,1989.0,Chuck Knox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,John Becker,Tom Catlin
+33,1988.0,Chuck Knox,16,9,7,0,0.563,1.0,0.0,1.0,Lost Div,Steve Moore,Tom Catlin
+34,1987.0,Chuck Knox,15,9,6,0,0.6,1.0,0.0,1.0,Lost WC,Steve Moore,Tom Catlin
+35,1986.0,Chuck Knox,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Steve Moore,Tom Catlin
+36,1985.0,Chuck Knox,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Ray Prochaska,Tom Catlin
+37,1984.0,Chuck Knox,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Ray Prochaska,Tom Catlin
+38,1983.0,Chuck Knox,16,9,7,0,0.563,3.0,2.0,1.0,Lost Conf,Ray Prochaska,Tom Catlin
+39,1982.0,Mike McCormack,7,4,3,0,0.571,0.0,0.0,0.0,N/A,Jerry Rhome,Jackie Simpson
+40,N/A,Jack Patera,2,0,2,0,0.0,0.0,0.0,0.0,N/A,Jerry Rhome,Jackie Simpson
+41,1981.0,Jack Patera,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Jerry Rhome,Jackie Simpson
+42,1980.0,Jack Patera,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Jerry Rhome,Larry Peccatiello
+43,1979.0,Jack Patera,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Jerry Rhome,Larry Peccatiello
+44,1978.0,Jack Patera,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Jerry Rhome,Larry Peccatiello
+45,1977.0,Jack Patera,14,5,9,0,0.357,0.0,0.0,0.0,N/A,Sam Boghosian,Bob Hollway
+46,1976.0,Jack Patera,14,2,12,0,0.143,0.0,0.0,0.0,N/A,Sam Boghosian,Bob Hollway

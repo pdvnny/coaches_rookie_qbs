@@ -1,0 +1,65 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Robert Saleh,17,4,13,0,0.235,N/A,N/A,N/A,N/A,Mike LaFleur,Jeff Ulbrich
+1,2020.0,Adam Gase,16,2,14,0,0.125,N/A,N/A,N/A,N/A,Dowell Loggains,"Frank Bush, Gregg Williams"
+2,2019.0,Adam Gase,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Dowell Loggains,Gregg Williams
+3,2018.0,Todd Bowles,16,4,12,0,0.25,N/A,N/A,N/A,N/A,Jeremy Bates,Kacy Rodgers
+4,2017.0,Todd Bowles,16,5,11,0,0.313,N/A,N/A,N/A,N/A,John Morton,Kacy Rodgers
+5,2016.0,Todd Bowles,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Chan Gailey,Kacy Rodgers
+6,2015.0,Todd Bowles,16,10,6,0,0.625,N/A,N/A,N/A,N/A,Chan Gailey,Kacy Rodgers
+7,2014.0,Rex Ryan,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Marty Mornhinweg,Dennis Thurman
+8,2013.0,Rex Ryan,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Marty Mornhinweg,Dennis Thurman
+9,2012.0,Rex Ryan,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Tony Sparano,Mike Pettine
+10,2011.0,Rex Ryan,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Brian Schottenheimer,Mike Pettine
+11,2010.0,Rex Ryan,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,Brian Schottenheimer,Mike Pettine
+12,2009.0,Rex Ryan,16,9,7,0,0.563,3.0,2.0,1.0,Lost Conf,Brian Schottenheimer,Mike Pettine
+13,2008.0,Eric Mangini,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Brian Schottenheimer,Bob Sutton
+14,2007.0,Eric Mangini,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Brian Schottenheimer,Bob Sutton
+15,2006.0,Eric Mangini,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Brian Schottenheimer,Bob Sutton
+16,2005.0,Herm Edwards,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Mike Heimerdinger,Donnie Henderson
+17,2004.0,Herm Edwards,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Paul Hackett,Donnie Henderson
+18,2003.0,Herm Edwards,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Paul Hackett,Ted Cottrell
+19,2002.0,Herm Edwards,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Paul Hackett,Ted Cottrell
+20,2001.0,Herm Edwards,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Paul Hackett,Ted Cottrell
+21,2000.0,Al Groh,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Dan Henning,Mike Nolan
+22,1999.0,Bill Parcells,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Charlie Weis,Bill Belichick
+23,1998.0,Bill Parcells,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Charlie Weis,Bill Belichick
+24,1997.0,Bill Parcells,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Charlie Weis,Bill Belichick
+25,1996.0,Rich Kotite,16,1,15,0,0.063,0.0,0.0,0.0,N/A,Ron Erhardt,Jim Vechiarella
+26,1995.0,Rich Kotite,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Zeke Bratkowski,Jim Vechiarella
+27,1994.0,Pete Carroll,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Ray Sherman,Greg Robinson
+28,1993.0,Bruce Coslet,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Pete Carroll
+29,1992.0,Bruce Coslet,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Pete Carroll
+30,1991.0,Bruce Coslet,16,8,8,0,0.5,1.0,0.0,1.0,Lost WC,N/A,Pete Carroll
+31,1990.0,Bruce Coslet,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Pete Carroll
+32,1989.0,Joe Walton,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Rich Kotite,Ralph Hawkins
+33,1988.0,Joe Walton,16,8,7,1,0.531,0.0,0.0,0.0,N/A,Rich Kotite,Bud Carson
+34,1987.0,Joe Walton,15,6,9,0,0.4,0.0,0.0,0.0,N/A,Rich Kotite,Bud Carson
+35,1986.0,Joe Walton,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Rich Kotite,Bud Carson
+36,1985.0,Joe Walton,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Rich Kotite,Bud Carson
+37,1984.0,Joe Walton,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Joe Gardi
+38,1983.0,Joe Walton,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Joe Gardi
+39,1982.0,Walt Michaels,9,6,3,0,0.667,3.0,2.0,1.0,Lost Conf,Joe Walton,Joe Gardi
+40,1981.0,Walt Michaels,16,10,5,1,0.656,1.0,0.0,1.0,Lost WC,Joe Walton,Joe Gardi
+41,1980.0,Walt Michaels,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,John Mazur
+42,1979.0,Walt Michaels,16,8,8,0,0.5,0.0,0.0,0.0,N/A,John Idzik,John Mazur
+43,1978.0,Walt Michaels,16,8,8,0,0.5,0.0,0.0,0.0,N/A,John Idzik,N/A
+44,1977.0,Walt Michaels,14,3,11,0,0.214,0.0,0.0,0.0,N/A,John Idzik,N/A
+45,1976.0,Mike Holovak,1,0,1,0,0.0,0.0,0.0,0.0,N/A,N/A,Walt Michaels
+46,N/A,Lou Holtz,13,3,10,0,0.231,0.0,0.0,0.0,N/A,N/A,Walt Michaels
+47,1975.0,Ken Shipp,5,1,4,0,0.2,0.0,0.0,0.0,N/A,N/A,Dick Voris
+48,N/A,Charley Winner,9,2,7,0,0.222,0.0,0.0,0.0,N/A,Ken Shipp,Dick Voris
+49,1974.0,Charley Winner,14,7,7,0,0.5,0.0,0.0,0.0,N/A,Ken Shipp,Dick Voris
+50,1973.0,Weeb Ewbank,14,4,10,0,0.286,0.0,0.0,0.0,N/A,Ken Shipp,Charley Winner
+51,1972.0,Weeb Ewbank,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+52,1971.0,Weeb Ewbank,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+53,1970.0,Weeb Ewbank,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+54,1969.0,Weeb Ewbank,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,N/A
+55,1968.0,Weeb Ewbank,14,11,3,0,0.786,2.0,2.0,0.0,Won SB,Clive Rush,N/A
+56,1967.0,Weeb Ewbank,14,8,5,1,0.615,0.0,0.0,0.0,N/A,Clive Rush,N/A
+57,1966.0,Weeb Ewbank,14,6,6,2,0.5,0.0,0.0,0.0,N/A,Clive Rush,N/A
+58,1965.0,Weeb Ewbank,14,5,8,1,0.385,0.0,0.0,0.0,N/A,Clive Rush,N/A
+59,1964.0,Weeb Ewbank,14,5,8,1,0.385,0.0,0.0,0.0,N/A,Clive Rush,N/A
+60,1963.0,Weeb Ewbank,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+61,1962.0,Bulldog Turner,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,N/A
+62,1961.0,Sammy Baugh,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+63,1960.0,Sammy Baugh,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A

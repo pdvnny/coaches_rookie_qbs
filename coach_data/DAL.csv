@@ -1,0 +1,64 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Mike McCarthy,17,12,5,0,0.706,1.0,0.0,1.0,Lost WC,Kellen Moore,Dan Quinn
+1,2020.0,Mike McCarthy,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Kellen Moore,Mike Nolan
+2,2019.0,Jason Garrett,16,8,8,0,0.5,N/A,N/A,N/A,N/A,Kellen Moore,Rod Marinelli
+3,2018.0,Jason Garrett,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Scott Linehan,Rod Marinelli
+4,2017.0,Jason Garrett,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Scott Linehan,Rod Marinelli
+5,2016.0,Jason Garrett,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Scott Linehan,Rod Marinelli
+6,2015.0,Jason Garrett,16,4,12,0,0.25,N/A,N/A,N/A,N/A,Scott Linehan,Rod Marinelli
+7,2014.0,Jason Garrett,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Bill Callahan,Rod Marinelli
+8,2013.0,Jason Garrett,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bill Callahan,Monte Kiffin
+9,2012.0,Jason Garrett,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bill Callahan,Rob Ryan
+10,2011.0,Jason Garrett,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Rob Ryan
+11,2010.0,Jason Garrett,8,5,3,0,0.625,0.0,0.0,0.0,N/A,N/A,Paul Pasqualoni
+12,N/A,Wade Phillips,8,1,7,0,0.125,0.0,0.0,0.0,N/A,Jason Garrett,Paul Pasqualoni
+13,2009.0,Wade Phillips,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Jason Garrett,N/A
+14,2008.0,Wade Phillips,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Jason Garrett,Brian Stewart
+15,2007.0,Wade Phillips,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Jason Garrett,Brian Stewart
+16,2006.0,Bill Parcells,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,N/A,Mike Zimmer
+17,2005.0,Bill Parcells,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,Mike Zimmer
+18,2004.0,Bill Parcells,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Maurice Carthon,Mike Zimmer
+19,2003.0,Bill Parcells,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Maurice Carthon,Mike Zimmer
+20,2002.0,Dave Campo,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Bruce Coslet,Mike Zimmer
+21,2001.0,Dave Campo,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Jack Reilly,Mike Zimmer
+22,2000.0,Dave Campo,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Jack Reilly,Mike Zimmer
+23,1999.0,Chan Gailey,16,8,8,0,0.5,1.0,0.0,1.0,Lost WC,N/A,Dave Campo
+24,1998.0,Chan Gailey,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,N/A,Dave Campo
+25,1997.0,Barry Switzer,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Ernie Zampese,Dave Campo
+26,1996.0,Barry Switzer,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Ernie Zampese,Dave Campo
+27,1995.0,Barry Switzer,16,12,4,0,0.75,3.0,3.0,0.0,Won SB,Ernie Zampese,Dave Campo
+28,1994.0,Barry Switzer,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Ernie Zampese,Butch Davis
+29,1993.0,Jimmy Johnson,16,12,4,0,0.75,3.0,3.0,0.0,Won SB,Norv Turner,Butch Davis
+30,1992.0,Jimmy Johnson,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Norv Turner,Dave Wannstedt
+31,1991.0,Jimmy Johnson,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Norv Turner,Dave Wannstedt
+32,1990.0,Jimmy Johnson,16,7,9,0,0.438,0.0,0.0,0.0,N/A,David Shula,Dave Wannstedt
+33,1989.0,Jimmy Johnson,16,1,15,0,0.063,0.0,0.0,0.0,N/A,David Shula,Dave Wannstedt
+34,1988.0,Tom Landry,16,3,13,0,0.188,0.0,0.0,0.0,N/A,N/A,Ernie Stautner
+35,1987.0,Tom Landry,15,7,8,0,0.467,0.0,0.0,0.0,N/A,N/A,Ernie Stautner
+36,1986.0,Tom Landry,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Ernie Stautner
+37,1985.0,Tom Landry,16,10,6,0,0.625,1.0,0.0,1.0,Lost Div,N/A,Ernie Stautner
+38,1984.0,Tom Landry,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,Ernie Stautner
+39,1983.0,Tom Landry,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,N/A,Ernie Stautner
+40,1982.0,Tom Landry,9,6,3,0,0.667,3.0,2.0,1.0,Lost Conf,N/A,Ernie Stautner
+41,1981.0,Tom Landry,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,N/A,Ernie Stautner
+42,1980.0,Tom Landry,16,12,4,0,0.75,3.0,2.0,1.0,Lost Conf,Dan Reeves,Ernie Stautner
+43,1979.0,Tom Landry,16,11,5,0,0.688,1.0,0.0,1.0,Lost Div,Dan Reeves,Ernie Stautner
+44,1978.0,Tom Landry,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Dan Reeves,Ernie Stautner
+45,1977.0,Tom Landry,14,12,2,0,0.857,3.0,3.0,0.0,Won SB,Dan Reeves,Ernie Stautner
+46,1976.0,Tom Landry,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,Jim Myers,Ernie Stautner
+47,1975.0,Tom Landry,14,10,4,0,0.714,3.0,2.0,1.0,Lost SB,Jim Myers,Ernie Stautner
+48,1974.0,Tom Landry,14,8,6,0,0.571,0.0,0.0,0.0,N/A,Jim Myers,Ernie Stautner
+49,1973.0,Tom Landry,14,10,4,0,0.714,2.0,1.0,1.0,Lost Conf,Jim Myers,Ernie Stautner
+50,1972.0,Tom Landry,14,10,4,0,0.714,2.0,1.0,1.0,Lost Conf,Jim Myers,N/A
+51,1971.0,Tom Landry,14,11,3,0,0.786,3.0,3.0,0.0,Won SB,Jim Myers,N/A
+52,1970.0,Tom Landry,14,10,4,0,0.714,3.0,2.0,1.0,Lost SB,Jim Myers,N/A
+53,1969.0,Tom Landry,14,11,2,1,0.846,1.0,0.0,1.0,Lost Div,N/A,N/A
+54,1968.0,Tom Landry,14,12,2,0,0.857,1.0,0.0,1.0,Lost Div,N/A,N/A
+55,1967.0,Tom Landry,14,9,5,0,0.643,2.0,1.0,1.0,Lost Conf,N/A,Dick Nolan
+56,1966.0,Tom Landry,14,10,3,1,0.769,1.0,0.0,1.0,Lost Conf,N/A,Dick Nolan
+57,1965.0,Tom Landry,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+58,1964.0,Tom Landry,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+59,1963.0,Tom Landry,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+60,1962.0,Tom Landry,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+61,1961.0,Tom Landry,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,N/A
+62,1960.0,Tom Landry,12,0,11,1,0.0,0.0,0.0,0.0,N/A,N/A,N/A

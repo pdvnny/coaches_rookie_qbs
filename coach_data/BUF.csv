@@ -1,0 +1,69 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Sean McDermott,17,11,6,0,0.647,2.0,1.0,1.0,Lost Div,Brian Daboll,Leslie Frazier
+1,2020.0,Sean McDermott,16,13,3,0,0.813,3.0,2.0,1.0,Lost Conf,Brian Daboll,Leslie Frazier
+2,2019.0,Sean McDermott,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Brian Daboll,Leslie Frazier
+3,2018.0,Sean McDermott,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Brian Daboll,Leslie Frazier
+4,2017.0,Sean McDermott,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Rick Dennison,Leslie Frazier
+5,2016.0,Anthony Lynn,1,0,1,0,0.0,0.0,0.0,0.0,N/A,Greg Roman,Dennis Thurman
+6,N/A,Rex Ryan,15,7,8,0,0.467,0.0,0.0,0.0,N/A,"Anthony Lynn, Greg Roman",Dennis Thurman
+7,2015.0,Rex Ryan,16,8,8,0,0.5,N/A,N/A,N/A,N/A,Greg Roman,Dennis Thurman
+8,2014.0,Doug Marrone,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Nathaniel Hackett,Jim Schwartz
+9,2013.0,Doug Marrone,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Nathaniel Hackett,Mike Pettine
+10,2012.0,Chan Gailey,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Curtis Modkins,Dave Wannstedt
+11,2011.0,Chan Gailey,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Curtis Modkins,George Edwards
+12,2010.0,Chan Gailey,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Curtis Modkins,George Edwards
+13,2009.0,Perry Fewell,7,3,4,0,0.429,0.0,0.0,0.0,N/A,Alex Van Pelt,N/A
+14,N/A,Dick Jauron,9,3,6,0,0.333,0.0,0.0,0.0,N/A,Alex Van Pelt,Perry Fewell
+15,2008.0,Dick Jauron,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Turk Schonert,Perry Fewell
+16,2007.0,Dick Jauron,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Steve Fairchild,Perry Fewell
+17,2006.0,Dick Jauron,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Steve Fairchild,Perry Fewell
+18,2005.0,Mike Mularkey,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Tom Clements,Jerry Gray
+19,2004.0,Mike Mularkey,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Tom Clements,Jerry Gray
+20,2003.0,Gregg Williams,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Kevin Gilbride,Jerry Gray
+21,2002.0,Gregg Williams,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Kevin Gilbride,Jerry Gray
+22,2001.0,Gregg Williams,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Mike Sheppard,Jerry Gray
+23,2000.0,Wade Phillips,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Joe Pendry,Ted Cottrell
+24,1999.0,Wade Phillips,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Joe Pendry,Ted Cottrell
+25,1998.0,Wade Phillips,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Joe Pendry,Ted Cottrell
+26,1997.0,Marv Levy,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Dan Henning,Wade Phillips
+27,1996.0,Marv Levy,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Tom Bresnahan,Wade Phillips
+28,1995.0,Marv Levy,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Tom Bresnahan,Wade Phillips
+29,1994.0,Marv Levy,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Tom Bresnahan,Walt Corey
+30,1993.0,Marv Levy,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Tom Bresnahan,Walt Corey
+31,1992.0,Marv Levy,16,11,5,0,0.688,4.0,3.0,1.0,Lost SB,Tom Bresnahan,Walt Corey
+32,1991.0,Marv Levy,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Ted Marchibroda,Walt Corey
+33,1990.0,Marv Levy,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Ted Marchibroda,Walt Corey
+34,1989.0,Marv Levy,16,9,7,0,0.563,1.0,0.0,1.0,Lost Div,Ted Marchibroda,Walt Corey
+35,1988.0,Marv Levy,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Jim Ringo,Walt Corey
+36,1987.0,Marv Levy,15,7,8,0,0.467,0.0,0.0,0.0,N/A,Jim Ringo,Walt Corey
+37,1986.0,Marv Levy,7,2,5,0,0.286,0.0,0.0,0.0,N/A,Jim Ringo,Herb Paterra
+38,N/A,Hank Bullough,9,2,7,0,0.222,0.0,0.0,0.0,N/A,Jim Ringo,Herb Paterra
+39,1985.0,Hank Bullough,12,2,10,0,0.167,0.0,0.0,0.0,N/A,Jim Ringo,N/A
+40,N/A,Kay Stephenson,4,0,4,0,0.0,0.0,0.0,0.0,N/A,Jim Ringo,Hank Bullough
+41,1984.0,Kay Stephenson,16,2,14,0,0.125,0.0,0.0,0.0,N/A,N/A,Don Lawrence
+42,1983.0,Kay Stephenson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Bob Zeman
+43,1982.0,Chuck Knox,9,4,5,0,0.444,0.0,0.0,0.0,N/A,Ray Prochaska,Tom Catlin
+44,1981.0,Chuck Knox,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Ray Prochaska,Tom Catlin
+45,1980.0,Chuck Knox,16,11,5,0,0.688,1.0,0.0,1.0,Lost Div,Ray Prochaska,Tom Catlin
+46,1979.0,Chuck Knox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Ray Prochaska,Tom Catlin
+47,1978.0,Chuck Knox,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Ray Prochaska,Tom Catlin
+48,1977.0,Jim Ringo,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,Richie McCabe
+49,1976.0,Jim Ringo,9,0,9,0,0.0,0.0,0.0,0.0,N/A,N/A,Richie McCabe
+50,N/A,Lou Saban,5,2,3,0,0.4,0.0,0.0,0.0,N/A,N/A,Richie McCabe
+51,1975.0,Lou Saban,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,N/A
+52,1974.0,Lou Saban,14,9,5,0,0.643,1.0,0.0,1.0,Lost Div,N/A,N/A
+53,1973.0,Lou Saban,14,9,5,0,0.643,0.0,0.0,0.0,N/A,N/A,N/A
+54,1972.0,Lou Saban,14,4,9,1,0.321,0.0,0.0,0.0,N/A,N/A,N/A
+55,1971.0,Harvey Johnson,14,1,13,0,0.071,0.0,0.0,0.0,N/A,N/A,N/A
+56,1970.0,John Rauch,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+57,1969.0,John Rauch,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+58,1968.0,Harvey Johnson,12,1,10,1,0.091,0.0,0.0,0.0,N/A,N/A,N/A
+59,N/A,Joe Collier,2,0,2,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+60,1967.0,Joe Collier,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+61,1966.0,Joe Collier,14,9,4,1,0.692,1.0,0.0,1.0,Lost Conf,N/A,N/A
+62,1965.0,Lou Saban,14,10,3,1,0.769,1.0,1.0,0.0,Won Champ,N/A,N/A
+63,1964.0,Lou Saban,14,12,2,0,0.857,1.0,1.0,0.0,Won Champ,N/A,N/A
+64,1963.0,Lou Saban,14,7,6,1,0.538,1.0,0.0,1.0,Lost Div,N/A,N/A
+65,1962.0,Lou Saban,14,7,6,1,0.538,0.0,0.0,0.0,N/A,N/A,N/A
+66,1961.0,Buster Ramsey,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+67,1960.0,Buster Ramsey,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A

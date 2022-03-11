@@ -1,0 +1,102 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Joe Judge,17,4,13,0,0.235,N/A,N/A,N/A,N/A,"Jason Garrett, Freddie Kitchens",Patrick Graham
+1,2020.0,Joe Judge,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Jason Garrett,Patrick Graham
+2,2019.0,Pat Shurmur,16,4,12,0,0.25,N/A,N/A,N/A,N/A,Mike Shula,James Bettcher
+3,2018.0,Pat Shurmur,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Mike Shula,James Bettcher
+4,2017.0,Steve Spagnuolo,4,1,3,0,0.25,N/A,N/A,N/A,N/A,Mike Sullivan,N/A
+5,N/A,Ben McAdoo,12,2,10,0,0.167,N/A,N/A,N/A,N/A,Mike Sullivan,Steve Spagnuolo
+6,2016.0,Ben McAdoo,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Mike Sullivan,Steve Spagnuolo
+7,2015.0,Tom Coughlin,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Ben McAdoo,Steve Spagnuolo
+8,2014.0,Tom Coughlin,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Ben McAdoo,Perry Fewell
+9,2013.0,Tom Coughlin,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Kevin Gilbride,Perry Fewell
+10,2012.0,Tom Coughlin,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Kevin Gilbride,Perry Fewell
+11,2011.0,Tom Coughlin,16,9,7,0,0.563,4.0,4.0,0.0,Won SB,Kevin Gilbride,Perry Fewell
+12,2010.0,Tom Coughlin,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Kevin Gilbride,Perry Fewell
+13,2009.0,Tom Coughlin,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Kevin Gilbride,Bill Sheridan
+14,2008.0,Tom Coughlin,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,Kevin Gilbride,Steve Spagnuolo
+15,2007.0,Tom Coughlin,16,10,6,0,0.625,4.0,4.0,0.0,Won SB,Kevin Gilbride,Steve Spagnuolo
+16,2006.0,Tom Coughlin,16,8,8,0,0.5,1.0,0.0,1.0,Lost WC,John Hufnagel,Tim Lewis
+17,2005.0,Tom Coughlin,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,John Hufnagel,Tim Lewis
+18,2004.0,Tom Coughlin,16,6,10,0,0.375,0.0,0.0,0.0,N/A,John Hufnagel,Tim Lewis
+19,2003.0,Jim Fassel,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Johnny Lynn
+20,2002.0,Jim Fassel,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Sean Payton,Johnny Lynn
+21,2001.0,Jim Fassel,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Sean Payton,John Fox
+22,2000.0,Jim Fassel,16,12,4,0,0.75,3.0,2.0,1.0,Lost SB,Sean Payton,John Fox
+23,1999.0,Jim Fassel,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jim Skipper,John Fox
+24,1998.0,Jim Fassel,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jim Skipper,John Fox
+25,1997.0,Jim Fassel,16,10,5,1,0.656,1.0,0.0,1.0,Lost WC,Jim Skipper,John Fox
+26,1996.0,Dan Reeves,16,6,10,0,0.375,0.0,0.0,0.0,N/A,George Henshaw,Mike Nolan
+27,1995.0,Dan Reeves,16,5,11,0,0.313,0.0,0.0,0.0,N/A,George Henshaw,Mike Nolan
+28,1994.0,Dan Reeves,16,9,7,0,0.563,0.0,0.0,0.0,N/A,George Henshaw,Mike Nolan
+29,1993.0,Dan Reeves,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,George Henshaw,Mike Nolan
+30,1992.0,Ray Handley,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Jim Fassel,Rod Rust
+31,1991.0,Ray Handley,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Al Groh
+32,1990.0,Bill Parcells,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Ron Erhardt,Bill Belichick
+33,1989.0,Bill Parcells,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,Ron Erhardt,Bill Belichick
+34,1988.0,Bill Parcells,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Ron Erhardt,Bill Belichick
+35,1987.0,Bill Parcells,15,6,9,0,0.4,0.0,0.0,0.0,N/A,Ron Erhardt,Bill Belichick
+36,1986.0,Bill Parcells,16,14,2,0,0.875,3.0,3.0,0.0,Won SB,Ron Erhardt,Bill Belichick
+37,1985.0,Bill Parcells,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Ron Erhardt,Bill Belichick
+38,1984.0,Bill Parcells,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Ron Erhardt,N/A
+39,1983.0,Bill Parcells,16,3,12,1,0.219,0.0,0.0,0.0,N/A,Ron Erhardt,N/A
+40,1982.0,Ray Perkins,9,4,5,0,0.444,0.0,0.0,0.0,N/A,Ron Erhardt,Bill Parcells
+41,1981.0,Ray Perkins,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,N/A,Bill Parcells
+42,1980.0,Ray Perkins,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Ralph Hawkins
+43,1979.0,Ray Perkins,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Ralph Hawkins
+44,1978.0,John McVay,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Bob Gibson,Dick Modzelewski
+45,1977.0,John McVay,14,5,9,0,0.357,0.0,0.0,0.0,N/A,Bob Gibson,Marty Schottenheimer
+46,1976.0,John McVay,7,3,4,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+47,N/A,Bill Arnsparger,7,0,7,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+48,1975.0,Bill Arnsparger,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,N/A
+49,1974.0,Bill Arnsparger,14,2,12,0,0.143,0.0,0.0,0.0,N/A,N/A,N/A
+50,1973.0,Alex Webster,14,2,11,1,0.179,0.0,0.0,0.0,N/A,Joe Walton,Jim Garrett
+51,1972.0,Alex Webster,14,8,6,0,0.571,0.0,0.0,0.0,N/A,Joe Walton,Jim Garrett
+52,1971.0,Alex Webster,14,4,10,0,0.286,0.0,0.0,0.0,N/A,Joe Walton,Norb Hecker
+53,1970.0,Alex Webster,14,9,5,0,0.643,0.0,0.0,0.0,N/A,Ken Kavanaugh,Norb Hecker
+54,1969.0,Alex Webster,14,6,8,0,0.429,0.0,0.0,0.0,N/A,Ken Kavanaugh,Norb Hecker
+55,1968.0,Allie Sherman,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Harland Svare
+56,1967.0,Allie Sherman,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Harland Svare
+57,1966.0,Allie Sherman,14,1,12,1,0.077,0.0,0.0,0.0,N/A,N/A,Pop Ivy
+58,1965.0,Allie Sherman,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Pop Ivy
+59,1964.0,Allie Sherman,14,2,10,2,0.167,0.0,0.0,0.0,N/A,N/A,Andy Robustelli
+60,1963.0,Allie Sherman,14,11,3,0,0.786,1.0,0.0,1.0,Lost Champ,Kyle Rote,Andy Robustelli
+61,1962.0,Allie Sherman,14,12,2,0,0.857,1.0,0.0,1.0,Lost Champ,Kyle Rote,Andy Robustelli
+62,1961.0,Allie Sherman,14,10,3,1,0.769,1.0,0.0,1.0,Lost Champ,N/A,Harland Svare
+63,1960.0,Jim Lee Howell,12,6,4,2,0.6,0.0,0.0,0.0,N/A,Allie Sherman,Harland Svare
+64,1959.0,Jim Lee Howell,12,10,2,0,0.833,1.0,0.0,1.0,Lost Champ,Allie Sherman,Tom Landry
+65,1958.0,Jim Lee Howell,12,9,3,0,0.75,2.0,1.0,1.0,Lost Champ,Vince Lombardi,Tom Landry
+66,1957.0,Jim Lee Howell,12,7,5,0,0.583,0.0,0.0,0.0,N/A,Vince Lombardi,Tom Landry
+67,1956.0,Jim Lee Howell,12,8,3,1,0.727,1.0,1.0,0.0,Won Champ,Vince Lombardi,Tom Landry
+68,1955.0,Jim Lee Howell,12,6,5,1,0.545,0.0,0.0,0.0,N/A,Vince Lombardi,Tom Landry
+69,1954.0,Jim Lee Howell,12,7,5,0,0.583,0.0,0.0,0.0,N/A,Vince Lombardi,Tom Landry
+70,1953.0,Steve Owen,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+71,1952.0,Steve Owen,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+72,1951.0,Steve Owen,12,9,2,1,0.818,0.0,0.0,0.0,N/A,N/A,N/A
+73,1950.0,Steve Owen,12,10,2,0,0.833,1.0,0.0,1.0,Lost Div,N/A,N/A
+74,1949.0,Steve Owen,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+75,1948.0,Steve Owen,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+76,1947.0,Steve Owen,12,2,8,2,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+77,1946.0,Steve Owen,11,7,3,1,0.7,1.0,0.0,1.0,Lost Champ,N/A,N/A
+78,1945.0,Steve Owen,10,3,6,1,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+79,1944.0,Steve Owen,10,8,1,1,0.889,1.0,0.0,1.0,Lost Champ,N/A,N/A
+80,1943.0,Steve Owen,10,6,3,1,0.667,1.0,0.0,1.0,Lost Div,N/A,N/A
+81,1942.0,Steve Owen,11,5,5,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+82,1941.0,Steve Owen,11,8,3,0,0.727,1.0,0.0,1.0,Lost Champ,N/A,N/A
+83,1940.0,Steve Owen,11,6,4,1,0.6,0.0,0.0,0.0,N/A,N/A,N/A
+84,1939.0,Steve Owen,11,9,1,1,0.9,1.0,0.0,1.0,Lost Champ,N/A,N/A
+85,1938.0,Steve Owen,11,8,2,1,0.8,1.0,1.0,0.0,Won Champ,N/A,N/A
+86,1937.0,Steve Owen,11,6,3,2,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+87,1936.0,Steve Owen,12,5,6,1,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+88,1935.0,Steve Owen,12,9,3,0,0.75,1.0,0.0,1.0,Lost Champ,N/A,N/A
+89,1934.0,Steve Owen,13,8,5,0,0.615,1.0,1.0,0.0,Won Champ,N/A,N/A
+90,1933.0,Steve Owen,14,11,3,0,0.786,1.0,0.0,1.0,Lost Champ,N/A,N/A
+91,1932.0,Steve Owen,12,4,6,2,0.4,0.0,0.0,0.0,N/A,N/A,N/A
+92,1931.0,Steve Owen,14,7,6,1,0.538,0.0,0.0,0.0,N/A,N/A,N/A
+93,1930.0,Benny Friedman,2,2,0,0,1.0,0.0,0.0,0.0,N/A,N/A,N/A
+94,N/A,Steve Owen,2,2,0,0,1.0,N/A,N/A,N/A,N/A,N/A,N/A
+95,N/A,Roy Andrews,15,11,4,0,0.733,0.0,0.0,0.0,N/A,N/A,N/A
+96,1929.0,Roy Andrews,15,13,1,1,0.929,0.0,0.0,0.0,N/A,N/A,N/A
+97,1928.0,Earl Potteiger,13,4,7,2,0.364,0.0,0.0,0.0,N/A,N/A,N/A
+98,1927.0,Earl Potteiger,13,11,1,1,0.917,0.0,0.0,0.0,Won Champ,N/A,N/A
+99,1926.0,Doc Alexander,13,8,4,1,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+100,1925.0,Bob Folwell,12,8,4,0,0.667,0.0,0.0,0.0,N/A,N/A,N/A

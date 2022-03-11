@@ -1,0 +1,65 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Andy Reid,17,12,5,0,0.706,3,2,1,Lost Conf,Eric Bieniemy,Steve Spagnuolo
+1,2020.0,Andy Reid,16,14,2,0,0.875,3,2,1,Lost SB,Eric Bieniemy,Steve Spagnuolo
+2,2019.0,Andy Reid,16,12,4,0,0.75,3,3,0,Won SB,Eric Bieniemy,Steve Spagnuolo
+3,2018.0,Andy Reid,16,12,4,0,0.75,2,1,1,Lost Conf,Eric Bieniemy,Bob Sutton
+4,2017.0,Andy Reid,16,10,6,0,0.625,1,0,1,Lost WC,Matt Nagy,Bob Sutton
+5,2016.0,Andy Reid,16,12,4,0,0.75,1,0,1,Lost Div,Brad Childress,Bob Sutton
+6,2015.0,Andy Reid,16,11,5,0,0.688,2,1,1,Lost Div,Doug Pederson,Bob Sutton
+7,2014.0,Andy Reid,16,9,7,0,0.563,0,0,0,N/A,Doug Pederson,Bob Sutton
+8,2013.0,Andy Reid,16,11,5,0,0.688,1,0,1,Lost WC,Doug Pederson,Bob Sutton
+9,2012.0,Romeo Crennel,16,2,14,0,0.125,0,0,0,N/A,Brian Daboll,N/A
+10,2011.0,Romeo Crennel,3,2,1,0,0.667,0,0,0,N/A,Bill Muir,N/A
+11,N/A,Todd Haley,13,5,8,0,0.385,0,0,0,N/A,Bill Muir,Romeo Crennel
+12,2010.0,Todd Haley,16,10,6,0,0.625,1,0,1,Lost WC,Charlie Weis,Romeo Crennel
+13,2009.0,Todd Haley,16,4,12,0,0.25,0,0,0,N/A,N/A,Clancy Pendergast
+14,2008.0,Herm Edwards,16,2,14,0,0.125,0,0,0,N/A,Chan Gailey,Gunther Cunningham
+15,2007.0,Herm Edwards,16,4,12,0,0.25,0,0,0,N/A,Mike Solari,Gunther Cunningham
+16,2006.0,Herm Edwards,16,9,7,0,0.563,1,0,1,Lost WC,Mike Solari,Gunther Cunningham
+17,2005.0,Dick Vermeil,16,10,6,0,0.625,0,0,0,N/A,Al Saunders,Gunther Cunningham
+18,2004.0,Dick Vermeil,16,7,9,0,0.438,0,0,0,N/A,Al Saunders,Gunther Cunningham
+19,2003.0,Dick Vermeil,16,13,3,0,0.813,1,0,1,Lost Div,Al Saunders,Greg Robinson
+20,2002.0,Dick Vermeil,16,8,8,0,0.5,0,0,0,N/A,Al Saunders,Greg Robinson
+21,2001.0,Dick Vermeil,16,6,10,0,0.375,0,0,0,N/A,Al Saunders,Greg Robinson
+22,2000.0,Gunther Cunningham,16,7,9,0,0.438,0,0,0,N/A,Jimmy Raye,Kurt Schottenheimer
+23,1999.0,Gunther Cunningham,16,9,7,0,0.563,0,0,0,N/A,Jimmy Raye,Kurt Schottenheimer
+24,1998.0,Marty Schottenheimer,16,7,9,0,0.438,0,0,0,N/A,Jimmy Raye,Gunther Cunningham
+25,1997.0,Marty Schottenheimer,16,13,3,0,0.813,1,0,1,Lost Div,Paul Hackett,Gunther Cunningham
+26,1996.0,Marty Schottenheimer,16,9,7,0,0.563,0,0,0,N/A,Paul Hackett,Gunther Cunningham
+27,1995.0,Marty Schottenheimer,16,13,3,0,0.813,1,0,1,Lost Div,Paul Hackett,Gunther Cunningham
+28,1994.0,Marty Schottenheimer,16,9,7,0,0.563,1,0,1,Lost WC,Paul Hackett,Dave Adolph
+29,1993.0,Marty Schottenheimer,16,11,5,0,0.688,3,2,1,Lost Conf,Paul Hackett,Dave Adolph
+30,1992.0,Marty Schottenheimer,16,10,6,0,0.625,1,0,1,Lost WC,Joe Pendry,Dave Adolph
+31,1991.0,Marty Schottenheimer,16,10,6,0,0.625,2,1,1,Lost Div,Joe Pendry,Bill Cowher
+32,1990.0,Marty Schottenheimer,16,11,5,0,0.688,1,0,1,Lost WC,Joe Pendry,Bill Cowher
+33,1989.0,Marty Schottenheimer,16,8,7,1,0.531,0,0,0,N/A,Joe Pendry,Bill Cowher
+34,1988.0,Frank Gansz,16,4,11,1,0.281,0,0,0,N/A,George Sefcik,Rod Rust
+35,1987.0,Frank Gansz,15,4,11,0,0.267,0,0,0,N/A,Homer Smith,John Paul Young
+36,1986.0,John Mackovic,16,10,6,0,0.625,1,0,1,Lost WC,N/A,Walt Corey
+37,1985.0,John Mackovic,16,6,10,0,0.375,0,0,0,N/A,N/A,Dan Daniel
+38,1984.0,John Mackovic,16,8,8,0,0.5,0,0,0,N/A,N/A,Dan Daniel
+39,1983.0,John Mackovic,16,6,10,0,0.375,0,0,0,N/A,N/A,Bud Carson
+40,1982.0,Marv Levy,9,3,6,0,0.333,0,0,0,N/A,N/A,Rod Rust
+41,1981.0,Marv Levy,16,9,7,0,0.563,0,0,0,N/A,N/A,Rod Rust
+42,1980.0,Marv Levy,16,8,8,0,0.5,0,0,0,N/A,N/A,Rod Rust
+43,1979.0,Marv Levy,16,7,9,0,0.438,0,0,0,N/A,N/A,Rod Rust
+44,1978.0,Marv Levy,16,4,12,0,0.25,0,0,0,N/A,N/A,Rod Rust
+45,1977.0,Tom Bettis,7,1,6,0,0.143,0,0,0,N/A,Bob Schnelker,N/A
+46,N/A,Paul Wiggin,7,1,6,0,0.143,0,0,0,N/A,Bob Schnelker,Tom Bettis
+47,1976.0,Paul Wiggin,14,5,9,0,0.357,0,0,0,N/A,Chet Franklin,Vince Costello
+48,1975.0,Paul Wiggin,14,5,9,0,0.357,0,0,0,N/A,Chet Franklin,Vince Costello
+49,1974.0,Hank Stram,14,5,9,0,0.357,0,0,0,N/A,N/A,N/A
+50,1973.0,Hank Stram,14,7,5,2,0.571,0,0,0,N/A,N/A,N/A
+51,1972.0,Hank Stram,14,8,6,0,0.571,0,0,0,N/A,N/A,N/A
+52,1971.0,Hank Stram,14,10,3,1,0.769,1,0,1,Lost Div,N/A,N/A
+53,1970.0,Hank Stram,14,7,5,2,0.583,0,0,0,N/A,N/A,N/A
+54,1969.0,Hank Stram,14,11,3,0,0.786,3,3,0,Won SB,N/A,N/A
+55,1968.0,Hank Stram,14,12,2,0,0.857,1,0,1,Lost Div,N/A,N/A
+56,1967.0,Hank Stram,14,9,5,0,0.643,0,0,0,N/A,N/A,N/A
+57,1966.0,Hank Stram,14,11,2,1,0.846,2,1,1,Lost SB,N/A,N/A
+58,1965.0,Hank Stram,14,7,5,2,0.583,0,0,0,N/A,N/A,N/A
+59,1964.0,Hank Stram,14,7,7,0,0.5,0,0,0,N/A,N/A,N/A
+60,1963.0,Hank Stram,14,5,7,2,0.417,0,0,0,N/A,N/A,N/A
+61,1962.0,Hank Stram,14,11,3,0,0.786,1,1,0,Won Champ,N/A,N/A
+62,1961.0,Hank Stram,14,6,8,0,0.429,0,0,0,N/A,N/A,N/A
+63,1960.0,Hank Stram,14,8,6,0,0.571,0,0,0,N/A,N/A,N/A

@@ -1,0 +1,64 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Arthur Smith,17,7,10,0,0.412,N/A,N/A,N/A,N/A,Dave Ragone,Dean Pees
+1,2020.0,Raheem Morris,11,4,7,0,0.364,N/A,N/A,N/A,N/A,Dirk Koetter,Jeff Ulbrich
+2,N/A,Dan Quinn,5,0,5,0,0.0,N/A,N/A,N/A,N/A,Dirk Koetter,"Raheem Morris, Jeff Ulbrich"
+3,2019.0,Dan Quinn,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Dirk Koetter,N/A
+4,2018.0,Dan Quinn,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Steve Sarkisian,Marquand Manuel
+5,2017.0,Dan Quinn,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Steve Sarkisian,Marquand Manuel
+6,2016.0,Dan Quinn,16,11,5,0,0.688,3.0,2.0,1.0,Lost SB,Kyle Shanahan,Richard Smith
+7,2015.0,Dan Quinn,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Kyle Shanahan,Richard Smith
+8,2014.0,Mike Smith,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Dirk Koetter,Mike Nolan
+9,2013.0,Mike Smith,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Dirk Koetter,Mike Nolan
+10,2012.0,Mike Smith,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Dirk Koetter,Mike Nolan
+11,2011.0,Mike Smith,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Mike Mularkey,Brian VanGorder
+12,2010.0,Mike Smith,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Mike Mularkey,Brian VanGorder
+13,2009.0,Mike Smith,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Mike Mularkey,Brian VanGorder
+14,2008.0,Mike Smith,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Mike Mularkey,Brian VanGorder
+15,2007.0,Emmitt Thomas,3,1,2,0,0.333,0.0,0.0,0.0,N/A,Hue Jackson,Mike Zimmer
+16,N/A,Bobby Petrino,13,3,10,0,0.231,0.0,0.0,0.0,N/A,Hue Jackson,Mike Zimmer
+17,2006.0,Jim Mora,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Greg Knapp,Ed Donatell
+18,2005.0,Jim Mora,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Greg Knapp,Ed Donatell
+19,2004.0,Jim Mora,16,11,5,0,0.688,2.0,1.0,1.0,Lost Conf,Greg Knapp,Ed Donatell
+20,2003.0,Wade Phillips,3,2,1,0,0.667,0.0,0.0,0.0,N/A,Pete Mangurian,N/A
+21,N/A,Dan Reeves,13,3,10,0,0.231,0.0,0.0,0.0,N/A,Pete Mangurian,Wade Phillips
+22,2002.0,Dan Reeves,16,9,6,1,0.594,2.0,1.0,1.0,Lost Div,N/A,Wade Phillips
+23,2001.0,Dan Reeves,16,7,9,0,0.438,0.0,0.0,0.0,N/A,George Sefcik,Don Blackmon
+24,2000.0,Dan Reeves,16,4,12,0,0.25,0.0,0.0,0.0,N/A,George Sefcik,Rich Brooks
+25,1999.0,Dan Reeves,16,5,11,0,0.313,0.0,0.0,0.0,N/A,George Sefcik,Rich Brooks
+26,1998.0,Dan Reeves,16,14,2,0,0.875,3.0,2.0,1.0,Lost SB,George Sefcik,Rich Brooks
+27,1997.0,Dan Reeves,16,7,9,0,0.438,0.0,0.0,0.0,N/A,George Sefcik,Rich Brooks
+28,1996.0,June Jones,16,3,13,0,0.188,0.0,0.0,0.0,N/A,N/A,Rod Rust
+29,1995.0,June Jones,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,N/A,Joe Haering
+30,1994.0,June Jones,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Jim Bates
+31,1993.0,Jerry Glanville,16,6,10,0,0.375,0.0,0.0,0.0,N/A,June Jones,Doug Shively
+32,1992.0,Jerry Glanville,16,6,10,0,0.375,0.0,0.0,0.0,N/A,June Jones,Doug Shively
+33,1991.0,Jerry Glanville,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,June Jones,Doug Shively
+34,1990.0,Jerry Glanville,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Ray Sherman,Doug Shively
+35,1989.0,Jim Hanifan,4,0,4,0,0.0,0.0,0.0,0.0,N/A,Rod Dowhower,N/A
+36,N/A,Marion Campbell,12,3,9,0,0.25,0.0,0.0,0.0,N/A,Rod Dowhower,N/A
+37,1988.0,Marion Campbell,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Rod Dowhower,N/A
+38,1987.0,Marion Campbell,15,3,12,0,0.2,0.0,0.0,0.0,N/A,Rod Dowhower,N/A
+39,1986.0,Dan Henning,16,7,8,1,0.469,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+40,1985.0,Dan Henning,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,John Marshall
+41,1984.0,Dan Henning,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Bob Fry,John Marshall
+42,1983.0,Dan Henning,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bob Fry,John Marshall
+43,1982.0,Leeman Bennett,9,5,4,0,0.556,1.0,0.0,1.0,Lost WC,N/A,Jerry Glanville
+44,1981.0,Leeman Bennett,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Jerry Glanville
+45,1980.0,Leeman Bennett,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,N/A,Jerry Glanville
+46,1979.0,Leeman Bennett,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Jerry Glanville
+47,1978.0,Leeman Bennett,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,N/A,N/A
+48,1977.0,Leeman Bennett,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+49,1976.0,Pat Peppler,9,3,6,0,0.333,0.0,0.0,0.0,N/A,"Bill Nelsen, John Rauch",Fred Bruney
+50,N/A,Marion Campbell,5,1,4,0,0.2,0.0,0.0,0.0,N/A,"Bill Nelsen, John Rauch",Fred Bruney
+51,1975.0,Marion Campbell,14,4,10,0,0.286,0.0,0.0,0.0,N/A,Bill Nelsen,Fred Bruney
+52,1974.0,Marion Campbell,6,1,5,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+53,N/A,Norm Van Brocklin,8,2,6,0,0.25,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+54,1973.0,Norm Van Brocklin,14,9,5,0,0.643,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+55,1972.0,Norm Van Brocklin,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+56,1971.0,Norm Van Brocklin,14,7,6,1,0.538,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+57,1970.0,Norm Van Brocklin,14,4,8,2,0.333,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+58,1969.0,Norm Van Brocklin,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,Marion Campbell
+59,1968.0,Norm Van Brocklin,11,2,9,0,0.182,0.0,0.0,0.0,N/A,Lew Carpenter,Hal Herring
+60,N/A,Norb Hecker,3,0,3,0,0.0,0.0,0.0,0.0,N/A,Lew Carpenter,Hal Herring
+61,1967.0,Norb Hecker,14,1,12,1,0.077,0.0,0.0,0.0,N/A,N/A,Hal Herring
+62,1966.0,Norb Hecker,14,3,11,0,0.214,0.0,0.0,0.0,N/A,Tom Fears,Hal Herring

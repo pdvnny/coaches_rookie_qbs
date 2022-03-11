@@ -1,0 +1,64 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Mike Zimmer,17,8,9,0,0.471,N/A,N/A,N/A,N/A,Klint Kubiak,"Andre Patterson, Adam Zimmer"
+1,2020.0,Mike Zimmer,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Gary Kubiak,"Andre Patterson, Adam Zimmer"
+2,2019.0,Mike Zimmer,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Kevin Stefanski,George Edwards
+3,2018.0,Mike Zimmer,16,8,7,1,0.531,N/A,N/A,N/A,N/A,John DeFilippo,George Edwards
+4,2017.0,Mike Zimmer,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Pat Shurmur,George Edwards
+5,2016.0,Mike Zimmer,16,8,8,0,0.5,N/A,N/A,N/A,N/A,"Pat Shurmur, Norv Turner",George Edwards
+6,2015.0,Mike Zimmer,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Norv Turner,George Edwards
+7,2014.0,Mike Zimmer,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Norv Turner,George Edwards
+8,2013.0,Leslie Frazier,16,5,10,1,0.344,0.0,0.0,0.0,N/A,Bill Musgrave,Alan Williams
+9,2012.0,Leslie Frazier,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Bill Musgrave,Alan Williams
+10,2011.0,Leslie Frazier,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Bill Musgrave,Fred Pagac
+11,2010.0,Leslie Frazier,6,3,3,0,0.5,0.0,0.0,0.0,N/A,Darrell Bevell,Fred Pagac
+12,N/A,Brad Childress,10,3,7,0,0.3,0.0,0.0,0.0,N/A,Darrell Bevell,"Leslie Frazier, Fred Pagac"
+13,2009.0,Brad Childress,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Darrell Bevell,Leslie Frazier
+14,2008.0,Brad Childress,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Darrell Bevell,Leslie Frazier
+15,2007.0,Brad Childress,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Darrell Bevell,Leslie Frazier
+16,2006.0,Brad Childress,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Darrell Bevell,Mike Tomlin
+17,2005.0,Mike Tice,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Steve Loney,Ted Cottrell
+18,2004.0,Mike Tice,16,8,8,0,0.5,2.0,1.0,1.0,Lost Div,Scott Linehan,Ted Cottrell
+19,2003.0,Mike Tice,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Scott Linehan,George O'Leary
+20,2002.0,Mike Tice,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Scott Linehan,Willie Shaw
+21,2001.0,Mike Tice,1,0,1,0,0.0,0.0,0.0,0.0,N/A,Sherman Lewis,Emmitt Thomas
+22,N/A,Dennis Green,15,5,10,0,0.333,0.0,0.0,0.0,N/A,Sherman Lewis,Emmitt Thomas
+23,2000.0,Dennis Green,16,11,5,0,0.688,2.0,1.0,1.0,Lost Conf,Sherman Lewis,Emmitt Thomas
+24,1999.0,Dennis Green,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Ray Sherman,Foge Fazio
+25,1998.0,Dennis Green,16,15,1,0,0.938,2.0,1.0,1.0,Lost Conf,Brian Billick,Foge Fazio
+26,1997.0,Dennis Green,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Brian Billick,Foge Fazio
+27,1996.0,Dennis Green,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Brian Billick,Foge Fazio
+28,1995.0,Dennis Green,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Brian Billick,Tony Dungy
+29,1994.0,Dennis Green,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Brian Billick,Tony Dungy
+30,1993.0,Dennis Green,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,"Brian Billick, Jack Burns",Tony Dungy
+31,1992.0,Dennis Green,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Jack Burns,Tony Dungy
+32,1991.0,Jerry Burns,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Tom Moore,Monte Kiffin
+33,1990.0,Jerry Burns,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Bob Schnelker,Floyd Peters
+34,1989.0,Jerry Burns,16,10,6,0,0.625,1.0,0.0,1.0,Lost Div,Bob Schnelker,Floyd Peters
+35,1988.0,Jerry Burns,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Bob Schnelker,Floyd Peters
+36,1987.0,Jerry Burns,15,8,7,0,0.533,3.0,2.0,1.0,Lost Conf,Bob Schnelker,Floyd Peters
+37,1986.0,Jerry Burns,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Bob Schnelker,Floyd Peters
+38,1985.0,Bud Grant,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jerry Burns,Bob Hollway
+39,1984.0,Les Steckel,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Jerry Burns,Floyd Reese
+40,1983.0,Bud Grant,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jerry Burns,Bob Hollway
+41,1982.0,Bud Grant,9,5,4,0,0.556,2.0,1.0,1.0,Lost Div,Jerry Burns,Bob Hollway
+42,1981.0,Bud Grant,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jerry Burns,Bob Hollway
+43,1980.0,Bud Grant,16,9,7,0,0.563,1.0,0.0,1.0,Lost Div,Jerry Burns,Bob Hollway
+44,1979.0,Bud Grant,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jerry Burns,Bob Hollway
+45,1978.0,Bud Grant,16,8,7,1,0.531,1.0,0.0,1.0,Lost Div,Jerry Burns,Bob Hollway
+46,1977.0,Bud Grant,14,9,5,0,0.643,2.0,1.0,1.0,Lost Conf,Jerry Burns,Neill Armstrong
+47,1976.0,Bud Grant,14,11,2,1,0.821,3.0,2.0,1.0,Lost SB,Jerry Burns,Neill Armstrong
+48,1975.0,Bud Grant,14,12,2,0,0.857,1.0,0.0,1.0,Lost Div,Jerry Burns,Neill Armstrong
+49,1974.0,Bud Grant,14,10,4,0,0.714,3.0,2.0,1.0,Lost SB,Jerry Burns,Neill Armstrong
+50,1973.0,Bud Grant,14,12,2,0,0.857,3.0,2.0,1.0,Lost SB,Jerry Burns,Neill Armstrong
+51,1972.0,Bud Grant,14,7,7,0,0.5,0.0,0.0,0.0,N/A,Jerry Burns,Neill Armstrong
+52,1971.0,Bud Grant,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,Jerry Burns,Neill Armstrong
+53,1970.0,Bud Grant,14,12,2,0,0.857,1.0,0.0,1.0,Lost Div,Jerry Burns,Bob Hollway
+54,1969.0,Bud Grant,14,12,2,0,0.857,3.0,2.0,1.0,Lost SB,Jerry Burns,Bob Hollway
+55,1968.0,Bud Grant,14,8,6,0,0.571,1.0,0.0,1.0,Lost Div,Jerry Burns,N/A
+56,1967.0,Bud Grant,14,3,8,3,0.273,0.0,0.0,0.0,N/A,N/A,N/A
+57,1966.0,Norm Van Brocklin,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,N/A
+58,1965.0,Norm Van Brocklin,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+59,1964.0,Norm Van Brocklin,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,N/A
+60,1963.0,Norm Van Brocklin,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+61,1962.0,Norm Van Brocklin,14,2,11,1,0.154,0.0,0.0,0.0,N/A,N/A,N/A
+62,1961.0,Norm Van Brocklin,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A

@@ -1,0 +1,60 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Brian Flores,17,9,8,0,0.529,N/A,N/A,N/A,N/A,"George Godsey, Eric Studesville",Josh Boyer
+1,2020.0,Brian Flores,16,10,6,0,0.625,N/A,N/A,N/A,N/A,Chan Gailey,Josh Boyer
+2,2019.0,Brian Flores,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Chad O'Shea,Patrick Graham
+3,2018.0,Adam Gase,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Dowell Loggains,Matt Burke
+4,2017.0,Adam Gase,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Clyde Christensen,Matt Burke
+5,2016.0,Adam Gase,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Clyde Christensen,Vance Joseph
+6,2015.0,Dan Campbell,12,5,7,0,0.417,N/A,N/A,N/A,N/A,"Bill Lazor, Zac Taylor","Lou Anarumo, Kevin Coyle"
+7,N/A,Joe Philbin,4,1,3,0,0.25,0.0,0.0,0.0,N/A,"Bill Lazor, Zac Taylor","Lou Anarumo, Kevin Coyle"
+8,2014.0,Joe Philbin,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bill Lazor,Kevin Coyle
+9,2013.0,Joe Philbin,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike Sherman,Kevin Coyle
+10,2012.0,Joe Philbin,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mike Sherman,Kevin Coyle
+11,2011.0,Todd Bowles,3,2,1,0,0.667,0.0,0.0,0.0,N/A,Brian Daboll,Mike Nolan
+12,N/A,Tony Sparano,13,4,9,0,0.308,0.0,0.0,0.0,N/A,Brian Daboll,Mike Nolan
+13,2010.0,Tony Sparano,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Dan Henning,Mike Nolan
+14,2009.0,Tony Sparano,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Dan Henning,Paul Pasqualoni
+15,2008.0,Tony Sparano,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Dan Henning,Paul Pasqualoni
+16,2007.0,Cam Cameron,16,1,15,0,0.063,0.0,0.0,0.0,N/A,N/A,Dom Capers
+17,2006.0,Nick Saban,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Mike Mularkey,Dom Capers
+18,2005.0,Nick Saban,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Scott Linehan,Richard Smith
+19,2004.0,Jim Bates,7,3,4,0,0.429,0.0,0.0,0.0,N/A,Chris Foerster,N/A
+20,N/A,Dave Wannstedt,9,1,8,0,0.111,0.0,0.0,0.0,N/A,Chris Foerster,Jim Bates
+21,2003.0,Dave Wannstedt,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Norv Turner,Jim Bates
+22,2002.0,Dave Wannstedt,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Norv Turner,Jim Bates
+23,2001.0,Dave Wannstedt,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Chan Gailey,Jim Bates
+24,2000.0,Dave Wannstedt,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Chan Gailey,Jim Bates
+25,1999.0,Jimmy Johnson,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Kippy Brown,"George Hill, Dave Wannstedt"
+26,1998.0,Jimmy Johnson,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Kippy Brown,George Hill
+27,1997.0,Jimmy Johnson,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Gary Stevens,George Hill
+28,1996.0,Jimmy Johnson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Gary Stevens,George Hill
+29,1995.0,Don Shula,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Gary Stevens,Tom Olivadotti
+30,1994.0,Don Shula,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Gary Stevens,Tom Olivadotti
+31,1993.0,Don Shula,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Gary Stevens,Tom Olivadotti
+32,1992.0,Don Shula,16,11,5,0,0.688,2.0,1.0,1.0,Lost Conf,Gary Stevens,Tom Olivadotti
+33,1991.0,Don Shula,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Gary Stevens,Tom Olivadotti
+34,1990.0,Don Shula,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Gary Stevens,Tom Olivadotti
+35,1989.0,Don Shula,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Gary Stevens,Tom Olivadotti
+36,1988.0,Don Shula,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Tom Olivadotti
+37,1987.0,Don Shula,15,8,7,0,0.533,0.0,0.0,0.0,N/A,N/A,Tom Olivadotti
+38,1986.0,Don Shula,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Chuck Studley
+39,1985.0,Don Shula,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,N/A,Chuck Studley
+40,1984.0,Don Shula,16,14,2,0,0.875,3.0,2.0,1.0,Lost SB,N/A,Chuck Studley
+41,1983.0,Don Shula,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,N/A,Bill Arnsparger
+42,1982.0,Don Shula,9,7,2,0,0.778,4.0,3.0,1.0,Lost SB,N/A,Bill Arnsparger
+43,1981.0,Don Shula,16,11,4,1,0.719,1.0,0.0,1.0,Lost Div,N/A,Bill Arnsparger
+44,1980.0,Don Shula,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,Bill Arnsparger
+45,1979.0,Don Shula,16,10,6,0,0.625,1.0,0.0,1.0,Lost Div,N/A,Bill Arnsparger
+46,1978.0,Don Shula,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Howard Schnellenberger,Bill Arnsparger
+47,1977.0,Don Shula,14,10,4,0,0.714,0.0,0.0,0.0,N/A,Howard Schnellenberger,Bill Arnsparger
+48,1976.0,Don Shula,14,6,8,0,0.429,0.0,0.0,0.0,N/A,Howard Schnellenberger,Bill Arnsparger
+49,1975.0,Don Shula,14,10,4,0,0.714,0.0,0.0,0.0,N/A,Howard Schnellenberger,N/A
+50,1974.0,Don Shula,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,Monte Clark,Vince Costello
+51,1973.0,Don Shula,14,12,2,0,0.857,3.0,3.0,0.0,Won SB,Bill McPeak,Bill Arnsparger
+52,1972.0,Don Shula,14,14,0,0,1.0,3.0,3.0,0.0,Won SB,Howard Schnellenberger,Bill Arnsparger
+53,1971.0,Don Shula,14,10,3,1,0.769,3.0,2.0,1.0,Lost SB,Howard Schnellenberger,Bill Arnsparger
+54,1970.0,Don Shula,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,Howard Schnellenberger,Bill Arnsparger
+55,1969.0,George Wilson,14,3,10,1,0.231,0.0,0.0,0.0,N/A,N/A,N/A
+56,1968.0,George Wilson,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+57,1967.0,George Wilson,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+58,1966.0,George Wilson,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A

@@ -1,0 +1,95 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Ron Rivera,17,7,10,0,0.412,N/A,N/A,N/A,N/A,Scott Turner,Jack Del Rio
+1,2020.0,Ron Rivera,16,7,9,0,0.438,1.0,0.0,1.0,Lost WC,Scott Turner,Jack Del Rio
+2,2019.0,Bill Callahan,11,3,8,0,0.273,N/A,N/A,N/A,N/A,Kevin O'Connell,Greg Manusky
+3,N/A,Jay Gruden,5,0,5,0,0.0,N/A,N/A,N/A,N/A,Kevin O'Connell,Greg Manusky
+4,2018.0,Jay Gruden,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Matt Cavanaugh,Greg Manusky
+5,2017.0,Jay Gruden,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Matt Cavanaugh,Greg Manusky
+6,2016.0,Jay Gruden,16,8,7,1,0.531,N/A,N/A,N/A,N/A,Sean McVay,Joe Barry
+7,2015.0,Jay Gruden,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Sean McVay,Joe Barry
+8,2014.0,Jay Gruden,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Sean McVay,Jim Haslett
+9,2013.0,Mike Shanahan,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Kyle Shanahan,Jim Haslett
+10,2012.0,Mike Shanahan,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Kyle Shanahan,Jim Haslett
+11,2011.0,Mike Shanahan,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Kyle Shanahan,Jim Haslett
+12,2010.0,Mike Shanahan,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Kyle Shanahan,Jim Haslett
+13,2009.0,Jim Zorn,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Sherman Smith,Greg Blache
+14,2008.0,Jim Zorn,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Sherman Smith,Greg Blache
+15,2007.0,Joe Gibbs,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,"Don Breaux, Al Saunders",Gregg Williams
+16,2006.0,Joe Gibbs,16,5,11,0,0.313,0.0,0.0,0.0,N/A,"Don Breaux, Al Saunders",Gregg Williams
+17,2005.0,Joe Gibbs,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Don Breaux,Gregg Williams
+18,2004.0,Joe Gibbs,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Don Breaux,Gregg Williams
+19,2003.0,Steve Spurrier,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Hue Jackson,George Edwards
+20,2002.0,Steve Spurrier,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Marvin Lewis
+21,2001.0,Marty Schottenheimer,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jimmy Raye,Kurt Schottenheimer
+22,2000.0,Terry Robiskie,3,1,2,0,0.333,0.0,0.0,0.0,N/A,N/A,Ray Rhodes
+23,N/A,Norv Turner,13,7,6,0,0.538,0.0,0.0,0.0,N/A,N/A,Ray Rhodes
+24,1999.0,Norv Turner,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,N/A,Mike Nolan
+25,1998.0,Norv Turner,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Mike Nolan
+26,1997.0,Norv Turner,16,8,7,1,0.531,0.0,0.0,0.0,N/A,N/A,Mike Nolan
+27,1996.0,Norv Turner,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,Ron Lynn
+28,1995.0,Norv Turner,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Ron Lynn
+29,1994.0,Norv Turner,16,3,13,0,0.188,0.0,0.0,0.0,N/A,N/A,Ron Lynn
+30,1993.0,Richie Petitbon,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Rod Dowhower,Larry Peccatiello
+31,1992.0,Joe Gibbs,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,N/A,"Larry Peccatiello, Richie Petitbon"
+32,1991.0,Joe Gibbs,16,14,2,0,0.875,3.0,3.0,0.0,Won SB,N/A,"Larry Peccatiello, Richie Petitbon"
+33,1990.0,Joe Gibbs,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,N/A,"Larry Peccatiello, Richie Petitbon"
+34,1989.0,Joe Gibbs,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+35,1988.0,Joe Gibbs,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+36,1987.0,Joe Gibbs,15,11,4,0,0.733,3.0,3.0,0.0,Won SB,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+37,1986.0,Joe Gibbs,16,12,4,0,0.75,3.0,2.0,1.0,Lost Conf,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+38,1985.0,Joe Gibbs,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+39,1984.0,Joe Gibbs,16,11,5,0,0.688,1.0,0.0,1.0,Lost Div,Joe Bugel,"Larry Peccatiello, Richie Petitbon"
+40,1983.0,Joe Gibbs,16,14,2,0,0.875,3.0,2.0,1.0,Lost SB,Joe Bugel,Richie Petitbon
+41,1982.0,Joe Gibbs,9,8,1,0,0.889,4.0,4.0,0.0,Won SB,Joe Bugel,Richie Petitbon
+42,1981.0,Joe Gibbs,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Joe Bugel,Richie Petitbon
+43,1980.0,Jack Pardee,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Joe Walton,Richard Urich
+44,1979.0,Jack Pardee,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Joe Walton,Richard Urich
+45,1978.0,Jack Pardee,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Joe Walton,Richard Urich
+46,1977.0,George Allen,14,9,5,0,0.643,0.0,0.0,0.0,N/A,Charlie Waller,LaVern Torgeson
+47,1976.0,George Allen,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,Charlie Waller,LaVern Torgeson
+48,1975.0,George Allen,14,8,6,0,0.571,0.0,0.0,0.0,N/A,Charlie Waller,LaVern Torgeson
+49,1974.0,George Allen,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,Ted Marchibroda,LaVern Torgeson
+50,1973.0,George Allen,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,Ted Marchibroda,LaVern Torgeson
+51,1972.0,George Allen,14,11,3,0,0.786,3.0,2.0,1.0,Lost SB,Ted Marchibroda,LaVern Torgeson
+52,1971.0,George Allen,14,9,4,1,0.692,1.0,0.0,1.0,Lost Div,Ted Marchibroda,LaVern Torgeson
+53,1970.0,Bill Austin,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,Harland Svare
+54,1969.0,Vince Lombardi,14,7,5,2,0.583,0.0,0.0,0.0,N/A,N/A,Harland Svare
+55,1968.0,Otto Graham,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,Mike Scarry
+56,1967.0,Otto Graham,14,5,6,3,0.455,0.0,0.0,0.0,N/A,N/A,Mike Scarry
+57,1966.0,Otto Graham,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Mike Scarry
+58,1965.0,Bill McPeak,14,6,8,0,0.429,0.0,0.0,0.0,N/A,George Wilson,N/A
+59,1964.0,Bill McPeak,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+60,1963.0,Bill McPeak,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A
+61,1962.0,Bill McPeak,14,5,7,2,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+62,1961.0,Bill McPeak,14,1,12,1,0.077,0.0,0.0,0.0,N/A,N/A,N/A
+63,1960.0,Mike Nixon,12,1,9,2,0.1,0.0,0.0,0.0,N/A,N/A,N/A
+64,1959.0,Mike Nixon,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+65,1958.0,Joe Kuharich,12,4,7,1,0.364,0.0,0.0,0.0,N/A,N/A,N/A
+66,1957.0,Joe Kuharich,12,5,6,1,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+67,1956.0,Joe Kuharich,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+68,1955.0,Joe Kuharich,12,8,4,0,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+69,1954.0,Joe Kuharich,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+70,1953.0,Curly Lambeau,12,6,5,1,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+71,1952.0,Curly Lambeau,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+72,1951.0,Dick Todd,9,5,4,0,0.556,0.0,0.0,0.0,N/A,N/A,N/A
+73,N/A,Herman Ball,3,0,3,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+74,1950.0,Herman Ball,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+75,1949.0,Herman Ball,5,1,4,0,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+76,N/A,John Whelchel,7,3,3,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+77,1948.0,Turk Edwards,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+78,1947.0,Turk Edwards,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+79,1946.0,Turk Edwards,11,5,5,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+80,1945.0,Dudley DeGroot,10,8,2,0,0.8,1.0,0.0,1.0,Lost Champ,N/A,N/A
+81,1944.0,Dudley DeGroot,10,6,3,1,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+82,1943.0,Dutch Bergman,10,6,3,1,0.667,2.0,1.0,1.0,Lost Champ,N/A,N/A
+83,1942.0,Ray Flaherty,11,10,1,0,0.909,1.0,1.0,0.0,Won Champ,N/A,N/A
+84,1941.0,Ray Flaherty,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+85,1940.0,Ray Flaherty,11,9,2,0,0.818,1.0,0.0,1.0,Lost Champ,N/A,N/A
+86,1939.0,Ray Flaherty,11,8,2,1,0.8,0.0,0.0,0.0,N/A,N/A,N/A
+87,1938.0,Ray Flaherty,11,6,3,2,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+88,1937.0,Ray Flaherty,11,8,3,0,0.727,1.0,1.0,0.0,Won Champ,N/A,N/A
+89,1936.0,Ray Flaherty,12,7,5,0,0.583,1.0,0.0,1.0,Lost Champ,N/A,N/A
+90,1935.0,Eddie Casey,11,2,8,1,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+91,1934.0,Lone Star Dietz,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+92,1933.0,Lone Star Dietz,12,5,5,2,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+93,1932.0,Lud Wray,10,4,4,2,0.5,0.0,0.0,0.0,N/A,N/A,N/A

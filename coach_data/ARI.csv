@@ -1,0 +1,114 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Kliff Kingsbury,17,11,6,0,0.647,1.0,0.0,1.0,Lost WC,N/A,Vance Joseph
+1,2020.0,Kliff Kingsbury,16,8,8,0,0.5,N/A,N/A,N/A,N/A,N/A,Vance Joseph
+2,2019.0,Kliff Kingsbury,16,5,10,1,0.344,N/A,N/A,N/A,N/A,N/A,Vance Joseph
+3,2018.0,Steve Wilks,16,3,13,0,0.188,N/A,N/A,N/A,N/A,"Byron Leftwich, Mike McCoy",Al Holcomb
+4,2017.0,Bruce Arians,16,8,8,0,0.5,N/A,N/A,N/A,N/A,Harold Goodwin,James Bettcher
+5,2016.0,Bruce Arians,16,7,8,1,0.469,N/A,N/A,N/A,N/A,Harold Goodwin,James Bettcher
+6,2015.0,Bruce Arians,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Harold Goodwin,James Bettcher
+7,2014.0,Bruce Arians,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Harold Goodwin,Todd Bowles
+8,2013.0,Bruce Arians,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Harold Goodwin,Todd Bowles
+9,2012.0,Ken Whisenhunt,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Mike Miller,Ray Horton
+10,2011.0,Ken Whisenhunt,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike Miller,Ray Horton
+11,2010.0,Ken Whisenhunt,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Bill Davis
+12,2009.0,Ken Whisenhunt,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,N/A,Bill Davis
+13,2008.0,Ken Whisenhunt,16,9,7,0,0.563,4.0,3.0,1.0,Lost SB,Todd Haley,Clancy Pendergast
+14,2007.0,Ken Whisenhunt,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Todd Haley,Clancy Pendergast
+15,2006.0,Dennis Green,16,5,11,0,0.313,0.0,0.0,0.0,N/A,"Mike Kruczek, Keith Rowen",Clancy Pendergast
+16,2005.0,Dennis Green,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Keith Rowen,Clancy Pendergast
+17,2004.0,Dennis Green,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Alex Wood,Clancy Pendergast
+18,2003.0,Dave McGinnis,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Jerry Sullivan,Larry Marmie
+19,2002.0,Dave McGinnis,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Rich Olson,Larry Marmie
+20,2001.0,Dave McGinnis,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Rich Olson,Larry Marmie
+21,2000.0,Vince Tobin,7,2,5,0,0.286,0.0,0.0,0.0,N/A,Marc Trestman,"Larry Marmie, Dave McGinnis"
+22,N/A,Dave McGinnis,9,1,8,0,0.111,0.0,0.0,0.0,N/A,Marc Trestman,Larry Marmie
+23,1999.0,Vince Tobin,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Marc Trestman,Dave McGinnis
+24,1998.0,Vince Tobin,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Marc Trestman,Dave McGinnis
+25,1997.0,Vince Tobin,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Dick Jamieson,Dave McGinnis
+26,1996.0,Vince Tobin,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jim Fassel,Dave McGinnis
+27,1995.0,Buddy Ryan,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Dave Atkins,Ronnie Jones
+28,1994.0,Buddy Ryan,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Dave Atkins,Ronnie Jones
+29,1993.0,Joe Bugel,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jerry Rhome,Fritz Shurmur
+30,1992.0,Joe Bugel,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Jerry Rhome,Fritz Shurmur
+31,1991.0,Joe Bugel,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Jerry Rhome,Fritz Shurmur
+32,1990.0,Joe Bugel,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Jerry Rhome,Joe Pascale
+33,1989.0,Hank Kuhlmann,5,0,5,0,0.0,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+34,N/A,Gene Stallings,11,5,6,0,0.455,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+35,1988.0,Gene Stallings,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+36,1987.0,Gene Stallings,15,7,8,0,0.467,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+37,1986.0,Gene Stallings,16,4,11,1,0.281,0.0,0.0,0.0,N/A,Jim Shofner,N/A
+38,1985.0,Jim Hanifan,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Dick Jamieson,Floyd Peters
+39,1984.0,Jim Hanifan,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Rod Dowhower,"Tom Bettis, Floyd Peters"
+40,1983.0,Jim Hanifan,16,8,7,1,0.531,0.0,0.0,0.0,N/A,Rod Dowhower,"Tom Bettis, Floyd Peters"
+41,1982.0,Jim Hanifan,9,5,4,0,0.556,1.0,0.0,1.0,Lost WC,N/A,"Tom Bettis, Floyd Peters"
+42,1981.0,Jim Hanifan,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Tom Bettis
+43,1980.0,Jim Hanifan,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Tom Bettis
+44,1979.0,Larry Wilson,3,2,1,0,0.667,0.0,0.0,0.0,N/A,N/A,Tom Bettis
+45,N/A,Bud Wilkinson,13,3,10,0,0.231,0.0,0.0,0.0,N/A,N/A,Tom Bettis
+46,1978.0,Bud Wilkinson,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Tom Bettis
+47,1977.0,Don Coryell,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,Ray Willsey
+48,1976.0,Don Coryell,14,10,4,0,0.714,0.0,0.0,0.0,N/A,N/A,Ray Willsey
+49,1975.0,Don Coryell,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,N/A,Ray Willsey
+50,1974.0,Don Coryell,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,Ray Willsey
+51,1973.0,Don Coryell,14,4,9,1,0.321,0.0,0.0,0.0,N/A,N/A,Ray Willsey
+52,1972.0,Bob Hollway,14,4,9,1,0.321,0.0,0.0,0.0,N/A,Lew Carpenter,Chuck Drulis
+53,1971.0,Bob Hollway,14,4,9,1,0.308,0.0,0.0,0.0,N/A,Lew Carpenter,Dick Voris
+54,1970.0,Charley Winner,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+55,1969.0,Charley Winner,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+56,1968.0,Charley Winner,14,9,4,1,0.692,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+57,1967.0,Charley Winner,14,6,7,1,0.462,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+58,1966.0,Charley Winner,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+59,1965.0,Wally Lemm,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+60,1964.0,Wally Lemm,14,9,3,2,0.75,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+61,1963.0,Wally Lemm,14,9,5,0,0.643,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+62,1962.0,Wally Lemm,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,Chuck Drulis
+63,1961.0,Chuck Drulis,2,2,0,0,1.0,0.0,0.0,0.0,N/A,N/A,N/A
+64,N/A,Ray Prochaska,2,2,0,0,1.0,0.0,0.0,0.0,N/A,N/A,N/A
+65,N/A,Ray Willsey,2,2,0,0,1.0,0.0,0.0,0.0,N/A,N/A,N/A
+66,N/A,Pop Ivy,12,5,7,0,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+67,1960.0,Pop Ivy,12,6,5,1,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+68,1959.0,Pop Ivy,12,2,10,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+69,1958.0,Pop Ivy,12,2,9,1,0.182,0.0,0.0,0.0,N/A,N/A,N/A
+70,1957.0,Ray Richards,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+71,1956.0,Ray Richards,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+72,1955.0,Ray Richards,12,4,7,1,0.364,0.0,0.0,0.0,N/A,N/A,N/A
+73,1954.0,Joe Stydahar,12,2,10,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+74,1953.0,Joe Stydahar,12,1,10,1,0.091,0.0,0.0,0.0,N/A,N/A,N/A
+75,1952.0,Joe Kuharich,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+76,1951.0,Phil Handler,2,1,1,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+77,N/A,Cecil Isbell,2,1,1,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+78,N/A,Curly Lambeau,10,2,8,0,0.2,0.0,0.0,0.0,N/A,N/A,N/A
+79,1950.0,Curly Lambeau,12,5,7,0,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+80,1949.0,Buddy Parker,12,6,5,1,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+81,N/A,Phil Handler,6,2,4,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+82,1948.0,Jimmy Conzelman,12,11,1,0,0.917,1.0,0.0,1.0,Lost Champ,N/A,N/A
+83,1947.0,Jimmy Conzelman,12,9,3,0,0.75,1.0,1.0,0.0,Won Champ,N/A,N/A
+84,1946.0,Jimmy Conzelman,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+85,1945.0,Phil Handler,10,1,9,0,0.1,0.0,0.0,0.0,N/A,N/A,N/A
+86,1944.0,Phil Handler,10,0,10,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+87,N/A,Walt Kiesling,10,0,10,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+88,1943.0,Phil Handler,10,0,10,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+89,1942.0,Jimmy Conzelman,11,3,8,0,0.273,0.0,0.0,0.0,N/A,N/A,N/A
+90,1941.0,Jimmy Conzelman,11,3,7,1,0.3,0.0,0.0,0.0,N/A,N/A,N/A
+91,1940.0,Jimmy Conzelman,11,2,7,2,0.222,0.0,0.0,0.0,N/A,N/A,N/A
+92,1939.0,Ernie Nevers,11,1,10,0,0.091,0.0,0.0,0.0,N/A,N/A,N/A
+93,1938.0,Milan Creighton,11,2,9,0,0.182,0.0,0.0,0.0,N/A,N/A,N/A
+94,1937.0,Milan Creighton,11,5,5,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+95,1936.0,Milan Creighton,12,3,8,1,0.273,0.0,0.0,0.0,N/A,N/A,N/A
+96,1935.0,Milan Creighton,12,6,4,2,0.6,0.0,0.0,0.0,N/A,N/A,N/A
+97,1934.0,Paul Schissler,11,5,6,0,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+98,1933.0,Paul Schissler,11,1,9,1,0.1,0.0,0.0,0.0,N/A,N/A,N/A
+99,1932.0,Jack Chevigny,10,2,6,2,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+100,1931.0,Ernie Nevers,8,5,3,0,0.625,0.0,0.0,0.0,N/A,N/A,N/A
+101,N/A,Roy Andrews,1,0,1,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+102,1930.0,Ernie Nevers,13,5,6,2,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+103,1929.0,Dewey Scanlon,13,6,6,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+104,1928.0,Fred Gillies,6,1,5,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+105,1927.0,Guy Chamberlin,11,3,7,1,0.3,0.0,0.0,0.0,N/A,N/A,N/A
+106,1926.0,Norm Barry,12,5,6,1,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+107,1925.0,Norm Barry,14,11,2,1,0.846,0.0,0.0,0.0,Won Champ,N/A,N/A
+108,1924.0,Arnie Horween,10,5,4,1,0.556,0.0,0.0,0.0,N/A,N/A,N/A
+109,1923.0,Arnie Horween,12,8,4,0,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+110,1922.0,Paddy Driscoll,11,8,3,0,0.727,0.0,0.0,0.0,N/A,N/A,N/A
+111,1921.0,Paddy Driscoll,8,3,3,2,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+112,1920.0,Paddy Driscoll,10,6,2,2,0.75,0.0,0.0,0.0,N/A,N/A,N/A

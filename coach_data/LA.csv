@@ -1,0 +1,69 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Rich Bisaccia,12,7,5,0,0.583,1.0,0.0,1.0,Lost WC,Greg Olson,Gus Bradley
+1,N/A,Jon Gruden,5,3,2,0,0.6,1.0,0.0,1.0,Lost WC,Greg Olson,Gus Bradley
+2,2020.0,Jon Gruden,16,8,8,0,0.5,N/A,N/A,N/A,N/A,Greg Olson,"Paul Guenther, Rod Marinelli"
+3,2019.0,Jon Gruden,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Greg Olson,Paul Guenther
+4,2018.0,Jon Gruden,16,4,12,0,0.25,N/A,N/A,N/A,N/A,Greg Olson,Paul Guenther
+5,2017.0,Jack Del Rio,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Todd Downing,"Ken Norton, John Pagano"
+6,2016.0,Jack Del Rio,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Bill Musgrave,Ken Norton
+7,2015.0,Jack Del Rio,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Bill Musgrave,Ken Norton
+8,2014.0,Tony Sparano,12,3,9,0,0.25,0.0,0.0,0.0,N/A,Greg Olson,Jason Tarver
+9,N/A,Dennis Allen,4,0,4,0,0.0,0.0,0.0,0.0,N/A,Greg Olson,Jason Tarver
+10,2013.0,Dennis Allen,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Greg Olson,Jason Tarver
+11,2012.0,Dennis Allen,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Greg Knapp,Jason Tarver
+12,2011.0,Hue Jackson,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Al Saunders,Chuck Bresnahan
+13,2010.0,Tom Cable,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Hue Jackson,John Marshall
+14,2009.0,Tom Cable,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,John Marshall
+15,2008.0,Tom Cable,12,4,8,0,0.333,0.0,0.0,0.0,N/A,Greg Knapp,Rob Ryan
+16,N/A,Lane Kiffin,4,1,3,0,0.25,0.0,0.0,0.0,N/A,Greg Knapp,Rob Ryan
+17,2007.0,Lane Kiffin,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Greg Knapp,Rob Ryan
+18,2006.0,Art Shell,16,2,14,0,0.125,0.0,0.0,0.0,N/A,"John Shoop, Tom Walsh",Rob Ryan
+19,2005.0,Norv Turner,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Jimmy Raye,Rob Ryan
+20,2004.0,Norv Turner,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Jimmy Raye,Rob Ryan
+21,2003.0,Bill Callahan,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Marc Trestman,Chuck Bresnahan
+22,2002.0,Bill Callahan,16,11,5,0,0.688,3.0,2.0,1.0,Lost SB,Marc Trestman,Chuck Bresnahan
+23,2001.0,Jon Gruden,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Bill Callahan,Chuck Bresnahan
+24,2000.0,Jon Gruden,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Bill Callahan,Chuck Bresnahan
+25,1999.0,Jon Gruden,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bill Callahan,Willie Shaw
+26,1998.0,Jon Gruden,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bill Callahan,Willie Shaw
+27,1997.0,Joe Bugel,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Ray Perkins,Fred Whittingham
+28,1996.0,Mike White,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Joe Bugel,Fred Whittingham
+29,1995.0,Mike White,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Joe Bugel,John Fox
+30,1994.0,Art Shell,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Tom Walsh,John Fox
+31,1993.0,Art Shell,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Tom Walsh,Gunther Cunningham
+32,1992.0,Art Shell,16,7,9,0,0.438,0.0,0.0,0.0,N/A,"Terry Robiskie, Tom Walsh",Gunther Cunningham
+33,1991.0,Art Shell,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Terry Robiskie,Dave Adolph
+34,1990.0,Art Shell,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Terry Robiskie,Dave Adolph
+35,1989.0,Art Shell,12,7,5,0,0.583,0.0,0.0,0.0,N/A,"Terry Robiskie, Tom Walsh",Dave Adolph
+36,N/A,Mike Shanahan,4,1,3,0,0.25,0.0,0.0,0.0,N/A,"Terry Robiskie, Tom Walsh",Dave Adolph
+37,1988.0,Mike Shanahan,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Charlie Sumner
+38,1987.0,Tom Flores,15,5,10,0,0.333,0.0,0.0,0.0,N/A,N/A,Charlie Sumner
+39,1986.0,Tom Flores,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+40,1985.0,Tom Flores,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,N/A,N/A
+41,1984.0,Tom Flores,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,N/A,N/A
+42,1983.0,Tom Flores,16,12,4,0,0.75,3.0,3.0,0.0,Won SB,N/A,Charlie Sumner
+43,1982.0,Tom Flores,9,8,1,0,0.889,2.0,1.0,1.0,Lost Div,N/A,Charlie Sumner
+44,1981.0,Tom Flores,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Charlie Sumner
+45,1980.0,Tom Flores,16,11,5,0,0.688,4.0,4.0,0.0,Won SB,N/A,Charlie Sumner
+46,1979.0,Tom Flores,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,Charlie Sumner
+47,1978.0,John Madden,16,9,7,0,0.563,0.0,0.0,0.0,N/A,N/A,N/A
+48,1977.0,John Madden,14,11,3,0,0.786,2.0,1.0,1.0,Lost Conf,N/A,N/A
+49,1976.0,John Madden,14,13,1,0,0.929,3.0,3.0,0.0,Won SB,N/A,N/A
+50,1975.0,John Madden,14,11,3,0,0.786,2.0,1.0,1.0,Lost Conf,N/A,N/A
+51,1974.0,John Madden,14,12,2,0,0.857,2.0,1.0,1.0,Lost Conf,N/A,N/A
+52,1973.0,John Madden,14,9,4,1,0.679,2.0,1.0,1.0,Lost Conf,N/A,N/A
+53,1972.0,John Madden,14,10,3,1,0.75,1.0,0.0,1.0,Lost Div,N/A,N/A
+54,1971.0,John Madden,14,8,4,2,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+55,1970.0,John Madden,14,8,4,2,0.667,2.0,1.0,1.0,Lost Conf,N/A,N/A
+56,1969.0,John Madden,14,12,1,1,0.923,2.0,1.0,1.0,Lost Conf,N/A,N/A
+57,1968.0,John Rauch,14,12,2,0,0.857,2.0,1.0,1.0,Lost Conf,N/A,N/A
+58,1967.0,John Rauch,14,13,1,0,0.929,2.0,1.0,1.0,Lost SB,N/A,N/A
+59,1966.0,John Rauch,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,N/A
+60,1965.0,Al Davis,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,N/A
+61,1964.0,Al Davis,14,5,7,2,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+62,1963.0,Al Davis,14,10,4,0,0.714,0.0,0.0,0.0,N/A,N/A,N/A
+63,1962.0,Bill Conkright,9,1,8,0,0.111,0.0,0.0,0.0,N/A,N/A,N/A
+64,N/A,Marty Feldman,5,0,5,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+65,1961.0,Marty Feldman,12,2,10,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+66,N/A,Eddie Erdelatz,2,0,2,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+67,1960.0,Eddie Erdelatz,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A

@@ -1,0 +1,62 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Sean Payton,17,9,8,0,0.529,N/A,N/A,N/A,N/A,Pete Carmichael,Dennis Allen
+1,2020.0,Sean Payton,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Pete Carmichael,Dennis Allen
+2,2019.0,Sean Payton,16,13,3,0,0.813,1.0,0.0,1.0,Lost WC,Pete Carmichael,Dennis Allen
+3,2018.0,Sean Payton,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Pete Carmichael,Dennis Allen
+4,2017.0,Sean Payton,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Pete Carmichael,Dennis Allen
+5,2016.0,Sean Payton,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Pete Carmichael,Dennis Allen
+6,2015.0,Sean Payton,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Pete Carmichael,"Dennis Allen, Rob Ryan"
+7,2014.0,Sean Payton,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Pete Carmichael,Rob Ryan
+8,2013.0,Sean Payton,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Pete Carmichael,Rob Ryan
+9,2012.0,Joe Vitt,10,5,5,0,0.5,0.0,0.0,0.0,N/A,Pete Carmichael,Steve Spagnuolo
+10,N/A,Aaron Kromer,6,2,4,0,0.333,0.0,0.0,0.0,N/A,Pete Carmichael,Steve Spagnuolo
+11,2011.0,Sean Payton,16,13,3,0,0.813,2.0,1.0,1.0,Lost Div,Pete Carmichael,Gregg Williams
+12,2010.0,Sean Payton,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Pete Carmichael,Gregg Williams
+13,2009.0,Sean Payton,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Pete Carmichael,Gregg Williams
+14,2008.0,Sean Payton,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Doug Marrone,Gary Gibbs
+15,2007.0,Sean Payton,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Doug Marrone,Gary Gibbs
+16,2006.0,Sean Payton,16,10,6,0,0.625,2.0,1.0,1.0,Lost Conf,Doug Marrone,Gary Gibbs
+17,2005.0,Jim Haslett,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Mike Sheppard,Rick Venturi
+18,2004.0,Jim Haslett,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike McCarthy,Rick Venturi
+19,2003.0,Jim Haslett,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike McCarthy,Rick Venturi
+20,2002.0,Jim Haslett,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Mike McCarthy,Rick Venturi
+21,2001.0,Jim Haslett,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mike McCarthy,Ron Zook
+22,2000.0,Jim Haslett,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Mike McCarthy,Ron Zook
+23,1999.0,Mike Ditka,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Danny Abramowicz,Zaven Yaralian
+24,1998.0,Mike Ditka,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Danny Abramowicz,Zaven Yaralian
+25,1997.0,Mike Ditka,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Danny Abramowicz,Zaven Yaralian
+26,1996.0,Rick Venturi,8,1,7,0,0.125,0.0,0.0,0.0,N/A,Carl Smith,Jim Haslett
+27,N/A,Jim Mora,8,2,6,0,0.25,0.0,0.0,0.0,N/A,Carl Smith,Jim Haslett
+28,1995.0,Jim Mora,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Carl Smith,Monte Kiffin
+29,1994.0,Jim Mora,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Carl Smith,Steve Sidwell
+30,1993.0,Jim Mora,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Carl Smith,Steve Sidwell
+31,1992.0,Jim Mora,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Carl Smith,Steve Sidwell
+32,1991.0,Jim Mora,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Carl Smith,Steve Sidwell
+33,1990.0,Jim Mora,16,8,8,0,0.5,1.0,0.0,1.0,Lost WC,Carl Smith,Steve Sidwell
+34,1989.0,Jim Mora,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Carl Smith,Steve Sidwell
+35,1988.0,Jim Mora,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Carl Smith,Steve Sidwell
+36,1987.0,Jim Mora,15,12,3,0,0.8,1.0,0.0,1.0,Lost WC,Carl Smith,Steve Sidwell
+37,1986.0,Jim Mora,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Carl Smith,Steve Sidwell
+38,1985.0,Bum Phillips,12,4,8,0,0.333,0.0,0.0,0.0,N/A,"King Hill, John Levra",Wade Phillips
+39,N/A,Wade Phillips,4,1,3,0,0.25,0.0,0.0,0.0,N/A,"King Hill, John Levra",N/A
+40,1984.0,Bum Phillips,16,7,9,0,0.438,0.0,0.0,0.0,N/A,King Hill,Wade Phillips
+41,1983.0,Bum Phillips,16,8,8,0,0.5,0.0,0.0,0.0,N/A,King Hill,Wade Phillips
+42,1982.0,Bum Phillips,9,4,5,0,0.444,0.0,0.0,0.0,N/A,King Hill,Wade Phillips
+43,1981.0,Bum Phillips,16,4,12,0,0.25,0.0,0.0,0.0,N/A,King Hill,Wade Phillips
+44,1980.0,Dick Stanfel,4,1,3,0,0.25,0.0,0.0,0.0,N/A,N/A,Ed Beard
+45,N/A,Dick Nolan,12,0,12,0,0.0,0.0,0.0,0.0,N/A,Dick Stanfel,Ed Beard
+46,1979.0,Dick Nolan,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Ed Hughes,Paul Wiggin
+47,1978.0,Dick Nolan,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Ed Hughes,Paul Wiggin
+48,1977.0,Hank Stram,14,3,11,0,0.214,0.0,0.0,0.0,N/A,N/A,N/A
+49,1976.0,Hank Stram,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,N/A
+50,1975.0,Ernie Hefferle,8,1,7,0,0.125,0.0,0.0,0.0,N/A,N/A,N/A
+51,N/A,John North,6,1,5,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+52,1974.0,John North,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,N/A
+53,1973.0,John North,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,Jim Champion
+54,1972.0,J.D. Roberts,14,2,11,1,0.179,0.0,0.0,0.0,N/A,Ken Shipp,Jim Champion
+55,1971.0,J.D. Roberts,14,4,8,2,0.333,0.0,0.0,0.0,N/A,Ken Shipp,Jim Champion
+56,1970.0,J.D. Roberts,7,1,6,0,0.143,0.0,0.0,0.0,N/A,N/A,N/A
+57,N/A,Tom Fears,7,1,5,1,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+58,1969.0,Tom Fears,14,5,9,0,0.357,0.0,0.0,0.0,N/A,N/A,Jack Faulkner
+59,1968.0,Tom Fears,14,4,9,1,0.308,0.0,0.0,0.0,N/A,George Dickson,Jack Faulkner
+60,1967.0,Tom Fears,14,3,11,0,0.214,0.0,0.0,0.0,N/A,George Dickson,Jack Faulkner

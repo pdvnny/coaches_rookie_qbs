@@ -1,0 +1,29 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Matt Rhule,17,5,12,0,0.294,N/A,N/A,N/A,N/A,"Joe Brady, Jeff Nixon",Phil Snow
+1,2020.0,Matt Rhule,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Joe Brady,Phil Snow
+2,2019.0,Perry Fewell,4,0,4,0,0.0,N/A,N/A,N/A,N/A,"Norv Turner, Scott Turner",Eric Washington
+3,N/A,Ron Rivera,12,5,7,0,0.417,N/A,N/A,N/A,N/A,"Norv Turner, Scott Turner",Eric Washington
+4,2018.0,Ron Rivera,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Norv Turner,Eric Washington
+5,2017.0,Ron Rivera,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Mike Shula,Steve Wilks
+6,2016.0,Ron Rivera,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Mike Shula,Sean McDermott
+7,2015.0,Ron Rivera,16,15,1,0,0.938,3.0,2.0,1.0,Lost SB,Mike Shula,Sean McDermott
+8,2014.0,Ron Rivera,16,7,8,1,0.469,2.0,1.0,1.0,Lost Div,Mike Shula,Sean McDermott
+9,2013.0,Ron Rivera,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,Mike Shula,Sean McDermott
+10,2012.0,Ron Rivera,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Rob Chudzinski,Sean McDermott
+11,2011.0,Ron Rivera,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Rob Chudzinski,Sean McDermott
+12,2010.0,John Fox,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jeff Davidson,Ron Meeks
+13,2009.0,John Fox,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jeff Davidson,Ron Meeks
+14,2008.0,John Fox,16,12,4,0,0.75,1.0,0.0,1.0,Lost Div,Jeff Davidson,Mike Trgovac
+15,2007.0,John Fox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Jeff Davidson,Mike Trgovac
+16,2006.0,John Fox,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Dan Henning,Mike Trgovac
+17,2005.0,John Fox,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,Dan Henning,Mike Trgovac
+18,2004.0,John Fox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Dan Henning,Mike Trgovac
+19,2003.0,John Fox,16,11,5,0,0.688,4.0,3.0,1.0,Lost SB,Dan Henning,Mike Trgovac
+20,2002.0,John Fox,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Dan Henning,Jack Del Rio
+21,2001.0,George Seifert,16,1,15,0,0.063,0.0,0.0,0.0,N/A,Richard Williamson,John Marshall
+22,2000.0,George Seifert,16,7,9,0,0.438,0.0,0.0,0.0,N/A,"Bill Musgrave, Richard Williamson",John Marshall
+23,1999.0,George Seifert,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Gil Haskell,John Marshall
+24,1998.0,Dom Capers,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Gil Haskell,Vic Fangio
+25,1997.0,Dom Capers,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Joe Pendry,Vic Fangio
+26,1996.0,Dom Capers,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Joe Pendry,Vic Fangio
+27,1995.0,Dom Capers,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Joe Pendry,Vic Fangio

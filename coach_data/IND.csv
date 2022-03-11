@@ -1,0 +1,75 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Frank Reich,17,9,8,0,0.529,N/A,N/A,N/A,N/A,Marcus Brady,Matt Eberflus
+1,2020.0,Frank Reich,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Nick Sirianni,Matt Eberflus
+2,2019.0,Frank Reich,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Nick Sirianni,Matt Eberflus
+3,2018.0,Frank Reich,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Nick Sirianni,Matt Eberflus
+4,2017.0,Chuck Pagano,16,4,12,0,0.25,N/A,N/A,N/A,N/A,Rob Chudzinski,Ted Monachino
+5,2016.0,Chuck Pagano,16,8,8,0,0.5,N/A,N/A,N/A,N/A,Rob Chudzinski,Ted Monachino
+6,2015.0,Chuck Pagano,16,8,8,0,0.5,N/A,N/A,N/A,N/A,"Rob Chudzinski, Pep Hamilton",Greg Manusky
+7,2014.0,Chuck Pagano,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,Pep Hamilton,Greg Manusky
+8,2013.0,Chuck Pagano,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Pep Hamilton,Greg Manusky
+9,2012.0,Chuck Pagano,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Bruce Arians,Greg Manusky
+10,2011.0,Jim Caldwell,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Clyde Christensen,Larry Coyer
+11,2010.0,Jim Caldwell,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Clyde Christensen,Larry Coyer
+12,2009.0,Jim Caldwell,16,14,2,0,0.875,3.0,2.0,1.0,Lost SB,Tom Moore,Larry Coyer
+13,2008.0,Tony Dungy,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Tom Moore,Ron Meeks
+14,2007.0,Tony Dungy,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Tom Moore,Ron Meeks
+15,2006.0,Tony Dungy,16,12,4,0,0.75,4.0,4.0,0.0,Won SB,Tom Moore,Ron Meeks
+16,2005.0,Tony Dungy,16,14,2,0,0.875,1.0,0.0,1.0,Lost Div,Tom Moore,Ron Meeks
+17,2004.0,Tony Dungy,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Tom Moore,Ron Meeks
+18,2003.0,Tony Dungy,16,12,4,0,0.75,3.0,2.0,1.0,Lost Conf,Tom Moore,Ron Meeks
+19,2002.0,Tony Dungy,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Tom Moore,Ron Meeks
+20,2001.0,Jim Mora,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Tom Moore,Vic Fangio
+21,2000.0,Jim Mora,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Tom Moore,Vic Fangio
+22,1999.0,Jim Mora,16,13,3,0,0.813,1.0,0.0,1.0,Lost Div,Tom Moore,Vic Fangio
+23,1998.0,Jim Mora,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Tom Moore,Rusty Tillman
+24,1997.0,Lindy Infante,16,3,13,0,0.188,0.0,0.0,0.0,N/A,N/A,Jim Johnson
+25,1996.0,Lindy Infante,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,N/A,Jim Johnson
+26,1995.0,Ted Marchibroda,16,9,7,0,0.563,3.0,2.0,1.0,Lost Conf,Lindy Infante,Jim Johnson
+27,1994.0,Ted Marchibroda,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Nick Nicolau,Jim Johnson
+28,1993.0,Ted Marchibroda,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Nick Nicolau,Rick Venturi
+29,1992.0,Ted Marchibroda,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Nick Nicolau,Rick Venturi
+30,1991.0,Rick Venturi,11,1,10,0,0.091,0.0,0.0,0.0,N/A,"Leon Burtnett, Milt Jackson",N/A
+31,N/A,Ron Meyer,5,0,5,0,0.0,0.0,0.0,0.0,N/A,"Leon Burtnett, Milt Jackson",Rick Venturi
+32,1990.0,Ron Meyer,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Larry Kennan,Bill Muir
+33,1989.0,Ron Meyer,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Larry Kennan,Bill Muir
+34,1988.0,Ron Meyer,16,9,7,0,0.563,0.0,0.0,0.0,N/A,John Becker,George Hill
+35,1987.0,Ron Meyer,15,9,6,0,0.6,1.0,0.0,1.0,Lost Div,John Becker,George Hill
+36,1986.0,Ron Meyer,3,3,0,0,1.0,0.0,0.0,0.0,N/A,Billie Matthews,George Hill
+37,N/A,Rod Dowhower,13,0,13,0,0.0,0.0,0.0,0.0,N/A,Billie Matthews,George Hill
+38,1985.0,Rod Dowhower,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Billie Matthews,George Hill
+39,1984.0,Hal Hunter,1,0,1,0,0.0,0.0,0.0,0.0,N/A,Zeke Bratkowski,Rick Venturi
+40,N/A,Frank Kush,15,4,11,0,0.267,0.0,0.0,0.0,N/A,Zeke Bratkowski,Rick Venturi
+41,1983.0,Frank Kush,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Zeke Bratkowski,N/A
+42,1982.0,Frank Kush,9,0,8,1,0.056,0.0,0.0,0.0,N/A,Zeke Bratkowski,Bud Carson
+43,1981.0,Mike McCormack,16,2,14,0,0.125,0.0,0.0,0.0,N/A,N/A,Chuck Weber
+44,1980.0,Mike McCormack,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Chuck Weber
+45,1979.0,Ted Marchibroda,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Maxie Baughan
+46,1978.0,Ted Marchibroda,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Maxie Baughan
+47,1977.0,Ted Marchibroda,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,Maxie Baughan
+48,1976.0,Ted Marchibroda,14,11,3,0,0.786,1.0,0.0,1.0,Lost Div,N/A,Maxie Baughan
+49,1975.0,Ted Marchibroda,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,Maxie Baughan
+50,1974.0,Joe Thomas,11,2,9,0,0.182,0.0,0.0,0.0,N/A,George Young,Don Doll
+51,N/A,Howard Schnellenberger,3,0,3,0,0.0,0.0,0.0,0.0,N/A,George Young,Don Doll
+52,1973.0,Howard Schnellenberger,14,4,10,0,0.286,0.0,0.0,0.0,N/A,George Young,Dick Voris
+53,1972.0,John Sandusky,9,4,5,0,0.444,0.0,0.0,0.0,N/A,John Idzik,N/A
+54,N/A,Don McCafferty,5,1,4,0,0.2,0.0,0.0,0.0,N/A,John Idzik,N/A
+55,1971.0,Don McCafferty,14,10,4,0,0.714,2.0,1.0,1.0,Lost Conf,John Idzik,N/A
+56,1970.0,Don McCafferty,14,11,2,1,0.846,3.0,3.0,0.0,Won SB,John Idzik,N/A
+57,1969.0,Don Shula,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,N/A
+58,1968.0,Don Shula,14,13,1,0,0.929,3.0,2.0,1.0,Lost SB,N/A,N/A
+59,1967.0,Don Shula,14,11,1,2,0.917,0.0,0.0,0.0,N/A,N/A,N/A
+60,1966.0,Don Shula,14,9,5,0,0.643,0.0,0.0,0.0,N/A,N/A,N/A
+61,1965.0,Don Shula,14,10,3,1,0.769,1.0,0.0,1.0,Lost Div,N/A,Charley Winner
+62,1964.0,Don Shula,14,12,2,0,0.857,1.0,0.0,1.0,Lost Champ,N/A,Charley Winner
+63,1963.0,Don Shula,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,Charley Winner
+64,1962.0,Weeb Ewbank,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+65,1961.0,Weeb Ewbank,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,N/A
+66,1960.0,Weeb Ewbank,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+67,1959.0,Weeb Ewbank,12,9,3,0,0.75,1.0,1.0,0.0,Won Champ,N/A,N/A
+68,1958.0,Weeb Ewbank,12,9,3,0,0.75,1.0,1.0,0.0,Won Champ,N/A,N/A
+69,1957.0,Weeb Ewbank,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+70,1956.0,Weeb Ewbank,12,5,7,0,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+71,1955.0,Weeb Ewbank,12,5,6,1,0.455,0.0,0.0,0.0,N/A,N/A,N/A
+72,1954.0,Weeb Ewbank,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+73,1953.0,Keith Molesworth,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A

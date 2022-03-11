@@ -1,0 +1,105 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Matt LaFleur,17,13,4,0,0.765,1.0,0.0,1.0,Lost Div,Nathaniel Hackett,Joe Barry
+1,2020.0,Matt LaFleur,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Nathaniel Hackett,Mike Pettine
+2,2019.0,Matt LaFleur,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Nathaniel Hackett,Mike Pettine
+3,2018.0,Joe Philbin,4,2,2,0,0.5,N/A,N/A,N/A,N/A,N/A,Mike Pettine
+4,N/A,Mike McCarthy,12,4,7,1,0.375,N/A,N/A,N/A,N/A,Joe Philbin,Mike Pettine
+5,2017.0,Mike McCarthy,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Edgar Bennett,Dom Capers
+6,2016.0,Mike McCarthy,16,10,6,0,0.625,3.0,2.0,1.0,Lost Conf,Edgar Bennett,Dom Capers
+7,2015.0,Mike McCarthy,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Edgar Bennett,Dom Capers
+8,2014.0,Mike McCarthy,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Tom Clements,Dom Capers
+9,2013.0,Mike McCarthy,16,8,7,1,0.531,1.0,0.0,1.0,Lost WC,Tom Clements,Dom Capers
+10,2012.0,Mike McCarthy,16,11,5,0,0.688,2.0,1.0,1.0,Lost Div,Tom Clements,Dom Capers
+11,2011.0,Mike McCarthy,16,15,1,0,0.938,1.0,0.0,1.0,Lost Div,Joe Philbin,Dom Capers
+12,2010.0,Mike McCarthy,16,10,6,0,0.625,4.0,4.0,0.0,Won SB,Joe Philbin,Dom Capers
+13,2009.0,Mike McCarthy,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Joe Philbin,Dom Capers
+14,2008.0,Mike McCarthy,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Joe Philbin,Bob Sanders
+15,2007.0,Mike McCarthy,16,13,3,0,0.813,2.0,1.0,1.0,Lost Conf,Joe Philbin,Bob Sanders
+16,2006.0,Mike McCarthy,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Jeff Jagodzinski,Bob Sanders
+17,2005.0,Mike Sherman,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Tom Rossley,Jim Bates
+18,2004.0,Mike Sherman,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Tom Rossley,Bob Slowik
+19,2003.0,Mike Sherman,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Tom Rossley,Ed Donatell
+20,2002.0,Mike Sherman,16,12,4,0,0.75,1.0,0.0,1.0,Lost WC,Tom Rossley,Ed Donatell
+21,2001.0,Mike Sherman,16,12,4,0,0.75,2.0,1.0,1.0,Lost Div,Tom Rossley,Ed Donatell
+22,2000.0,Mike Sherman,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Tom Rossley,Ed Donatell
+23,1999.0,Ray Rhodes,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Sherman Lewis,Emmitt Thomas
+24,1998.0,Mike Holmgren,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Sherman Lewis,Fritz Shurmur
+25,1997.0,Mike Holmgren,16,13,3,0,0.813,3.0,2.0,1.0,Lost SB,Sherman Lewis,Fritz Shurmur
+26,1996.0,Mike Holmgren,16,13,3,0,0.813,3.0,3.0,0.0,Won SB,Sherman Lewis,Fritz Shurmur
+27,1995.0,Mike Holmgren,16,11,5,0,0.688,3.0,2.0,1.0,Lost Conf,Sherman Lewis,Fritz Shurmur
+28,1994.0,Mike Holmgren,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Sherman Lewis,Fritz Shurmur
+29,1993.0,Mike Holmgren,16,9,7,0,0.563,2.0,1.0,1.0,Lost Div,Sherman Lewis,Ray Rhodes
+30,1992.0,Mike Holmgren,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Sherman Lewis,Ray Rhodes
+31,1991.0,Lindy Infante,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+32,1990.0,Lindy Infante,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+33,1989.0,Lindy Infante,16,10,6,0,0.625,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+34,1988.0,Lindy Infante,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Hank Bullough
+35,1987.0,Forrest Gregg,15,5,9,1,0.367,0.0,0.0,0.0,N/A,N/A,Dick Modzelewski
+36,1986.0,Forrest Gregg,16,4,12,0,0.25,0.0,0.0,0.0,N/A,N/A,Dick Modzelewski
+37,1985.0,Forrest Gregg,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Schnelker,Dick Modzelewski
+38,1984.0,Forrest Gregg,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Schnelker,Dick Modzelewski
+39,1983.0,Bart Starr,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Schnelker,John Meyer
+40,1982.0,Bart Starr,9,5,3,1,0.611,2.0,1.0,1.0,Lost Div,Bob Schnelker,John Meyer
+41,1981.0,Bart Starr,16,8,8,0,0.5,0.0,0.0,0.0,N/A,N/A,John Meyer
+42,1980.0,Bart Starr,16,5,10,1,0.344,0.0,0.0,0.0,N/A,N/A,John Meyer
+43,1979.0,Bart Starr,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Dave Hanner
+44,1978.0,Bart Starr,16,8,7,1,0.531,0.0,0.0,0.0,N/A,N/A,Dave Hanner
+45,1977.0,Bart Starr,14,4,10,0,0.286,0.0,0.0,0.0,N/A,N/A,Dave Hanner
+46,1976.0,Bart Starr,14,5,9,0,0.357,0.0,0.0,0.0,N/A,Paul Roach,Dave Hanner
+47,1975.0,Bart Starr,14,4,10,0,0.286,0.0,0.0,0.0,N/A,Paul Roach,Dave Hanner
+48,1974.0,Dan Devine,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,Dave Hanner
+49,1973.0,Dan Devine,14,5,7,2,0.429,0.0,0.0,0.0,N/A,N/A,Dave Hanner
+50,1972.0,Dan Devine,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,N/A,Dave Hanner
+51,1971.0,Dan Devine,14,4,8,2,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+52,1970.0,Phil Bengtson,14,6,8,0,0.429,0.0,0.0,0.0,N/A,N/A,N/A
+53,1969.0,Phil Bengtson,14,8,6,0,0.571,0.0,0.0,0.0,N/A,N/A,N/A
+54,1968.0,Phil Bengtson,14,6,7,1,0.462,0.0,0.0,0.0,N/A,N/A,N/A
+55,1967.0,Vince Lombardi,14,9,4,1,0.692,3.0,3.0,0.0,Won SB,N/A,Phil Bengtson
+56,1966.0,Vince Lombardi,14,12,2,0,0.857,2.0,2.0,0.0,Won SB,N/A,Phil Bengtson
+57,1965.0,Vince Lombardi,14,10,3,1,0.769,2.0,2.0,0.0,Won Champ,N/A,Phil Bengtson
+58,1964.0,Vince Lombardi,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,Phil Bengtson
+59,1963.0,Vince Lombardi,14,11,2,1,0.846,0.0,0.0,0.0,N/A,N/A,Phil Bengtson
+60,1962.0,Vince Lombardi,14,13,1,0,0.929,1.0,1.0,0.0,Won Champ,N/A,Phil Bengtson
+61,1961.0,Vince Lombardi,14,11,3,0,0.786,1.0,1.0,0.0,Won Champ,N/A,Phil Bengtson
+62,1960.0,Vince Lombardi,12,8,4,0,0.667,1.0,0.0,1.0,Lost Champ,N/A,Phil Bengtson
+63,1959.0,Vince Lombardi,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,Phil Bengtson
+64,1958.0,Ray McLean,12,1,10,1,0.091,0.0,0.0,0.0,N/A,N/A,Ray Richards
+65,1957.0,Lisle Blackbourn,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+66,1956.0,Lisle Blackbourn,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+67,1955.0,Lisle Blackbourn,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+68,1954.0,Lisle Blackbourn,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+69,1953.0,Hugh Devore,2,0,2,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+70,N/A,Ray McLean,2,0,2,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+71,N/A,Gene Ronzani,10,2,7,1,0.222,0.0,0.0,0.0,N/A,N/A,N/A
+72,1952.0,Gene Ronzani,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+73,1951.0,Gene Ronzani,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+74,1950.0,Gene Ronzani,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+75,1949.0,Curly Lambeau,12,2,10,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+76,1948.0,Curly Lambeau,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+77,1947.0,Curly Lambeau,12,6,5,1,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+78,1946.0,Curly Lambeau,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+79,1945.0,Curly Lambeau,10,6,4,0,0.6,0.0,0.0,0.0,N/A,N/A,N/A
+80,1944.0,Curly Lambeau,10,8,2,0,0.8,1.0,1.0,0.0,Won Champ,N/A,N/A
+81,1943.0,Curly Lambeau,10,7,2,1,0.778,0.0,0.0,0.0,N/A,N/A,N/A
+82,1942.0,Curly Lambeau,11,8,2,1,0.8,0.0,0.0,0.0,N/A,N/A,N/A
+83,1941.0,Curly Lambeau,11,10,1,0,0.909,1.0,0.0,1.0,Lost Div,N/A,N/A
+84,1940.0,Curly Lambeau,11,6,4,1,0.6,0.0,0.0,0.0,N/A,N/A,N/A
+85,1939.0,Curly Lambeau,11,9,2,0,0.818,1.0,1.0,0.0,Won Champ,N/A,N/A
+86,1938.0,Curly Lambeau,11,8,3,0,0.727,1.0,0.0,1.0,Lost Champ,N/A,N/A
+87,1937.0,Curly Lambeau,11,7,4,0,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+88,1936.0,Curly Lambeau,12,10,1,1,0.909,1.0,1.0,0.0,Won Champ,N/A,N/A
+89,1935.0,Curly Lambeau,12,8,4,0,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+90,1934.0,Curly Lambeau,13,7,6,0,0.538,0.0,0.0,0.0,N/A,N/A,N/A
+91,1933.0,Curly Lambeau,13,5,7,1,0.417,0.0,0.0,0.0,N/A,N/A,N/A
+92,1932.0,Curly Lambeau,14,10,3,1,0.769,0.0,0.0,0.0,N/A,N/A,N/A
+93,1931.0,Curly Lambeau,14,12,2,0,0.857,0.0,0.0,0.0,Won Champ,N/A,N/A
+94,1930.0,Curly Lambeau,14,10,3,1,0.769,0.0,0.0,0.0,Won Champ,N/A,N/A
+95,1929.0,Curly Lambeau,13,12,0,1,1.0,0.0,0.0,0.0,Won Champ,N/A,N/A
+96,1928.0,Curly Lambeau,13,6,4,3,0.6,0.0,0.0,0.0,N/A,N/A,N/A
+97,1927.0,Curly Lambeau,10,7,2,1,0.778,0.0,0.0,0.0,N/A,N/A,N/A
+98,1926.0,Curly Lambeau,13,7,3,3,0.7,0.0,0.0,0.0,N/A,N/A,N/A
+99,1925.0,Curly Lambeau,13,8,5,0,0.615,0.0,0.0,0.0,N/A,N/A,N/A
+100,1924.0,Curly Lambeau,11,7,4,0,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+101,1923.0,Curly Lambeau,10,7,2,1,0.778,0.0,0.0,0.0,N/A,N/A,N/A
+102,1922.0,Curly Lambeau,10,4,3,3,0.571,0.0,0.0,0.0,N/A,N/A,N/A
+103,1921.0,Curly Lambeau,6,3,2,1,0.6,0.0,0.0,0.0,N/A,N/A,N/A

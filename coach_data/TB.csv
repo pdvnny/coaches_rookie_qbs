@@ -1,0 +1,48 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Bruce Arians,17,13,4,0,0.765,2.0,1.0,1.0,Lost Div,Byron Leftwich,Todd Bowles
+1,2020.0,Bruce Arians,16,11,5,0,0.688,4.0,4.0,0.0,Won SB,Byron Leftwich,Todd Bowles
+2,2019.0,Bruce Arians,16,7,9,0,0.438,N/A,N/A,N/A,N/A,Byron Leftwich,Todd Bowles
+3,2018.0,Dirk Koetter,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Todd Monken,"Mark Duffner, Mike Smith"
+4,2017.0,Dirk Koetter,16,5,11,0,0.313,N/A,N/A,N/A,N/A,Todd Monken,Mike Smith
+5,2016.0,Dirk Koetter,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Todd Monken,Mike Smith
+6,2015.0,Lovie Smith,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Dirk Koetter,Leslie Frazier
+7,2014.0,Lovie Smith,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jeff Tedford,Leslie Frazier
+8,2013.0,Greg Schiano,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Mike Sullivan,Bill Sheridan
+9,2012.0,Greg Schiano,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mike Sullivan,Bill Sheridan
+10,2011.0,Raheem Morris,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Greg Olson,Keith Millard
+11,2010.0,Raheem Morris,16,10,6,0,0.625,0.0,0.0,0.0,N/A,Greg Olson,N/A
+12,2009.0,Raheem Morris,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Greg Olson,Jim Bates
+13,2008.0,Jon Gruden,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Bill Muir,Monte Kiffin
+14,2007.0,Jon Gruden,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Bill Muir,Monte Kiffin
+15,2006.0,Jon Gruden,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Bill Muir,Monte Kiffin
+16,2005.0,Jon Gruden,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Bill Muir,Monte Kiffin
+17,2004.0,Jon Gruden,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Bill Muir,Monte Kiffin
+18,2003.0,Jon Gruden,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bill Muir,Monte Kiffin
+19,2002.0,Jon Gruden,16,12,4,0,0.75,3.0,3.0,0.0,Won SB,Bill Muir,Monte Kiffin
+20,2001.0,Tony Dungy,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Clyde Christensen,Monte Kiffin
+21,2000.0,Tony Dungy,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Les Steckel,Monte Kiffin
+22,1999.0,Tony Dungy,16,11,5,0,0.688,2.0,1.0,1.0,Lost Conf,Mike Shula,Monte Kiffin
+23,1998.0,Tony Dungy,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Mike Shula,Monte Kiffin
+24,1997.0,Tony Dungy,16,10,6,0,0.625,2.0,1.0,1.0,Lost Div,Mike Shula,Monte Kiffin
+25,1996.0,Tony Dungy,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Mike Shula,Monte Kiffin
+26,1995.0,Sam Wyche,16,7,9,0,0.438,0.0,0.0,0.0,N/A,N/A,Rusty Tillman
+27,1994.0,Sam Wyche,16,6,10,0,0.375,0.0,0.0,0.0,N/A,N/A,Floyd Peters
+28,1993.0,Sam Wyche,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Floyd Peters
+29,1992.0,Sam Wyche,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Floyd Peters
+30,1991.0,Richard Williamson,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Hank Kuhlmann,Floyd Peters
+31,1990.0,Richard Williamson,3,1,2,0,0.333,0.0,0.0,0.0,N/A,N/A,Fred Bruney
+32,N/A,Ray Perkins,13,5,8,0,0.385,0.0,0.0,0.0,N/A,N/A,Fred Bruney
+33,1989.0,Ray Perkins,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Doug Graber
+34,1988.0,Ray Perkins,16,5,11,0,0.313,0.0,0.0,0.0,N/A,N/A,Doug Graber
+35,1987.0,Ray Perkins,15,4,11,0,0.267,0.0,0.0,0.0,N/A,N/A,Doug Graber
+36,1986.0,Leeman Bennett,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jimmy Raye,Jim Stanley
+37,1985.0,Leeman Bennett,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Jimmy Raye,Doug Shively
+38,1984.0,John McKay,16,6,10,0,0.375,0.0,0.0,0.0,N/A,John Brunner,Wayne Fontes
+39,1983.0,John McKay,16,2,14,0,0.125,0.0,0.0,0.0,N/A,N/A,Wayne Fontes
+40,1982.0,John McKay,9,5,4,0,0.556,1.0,0.0,1.0,Lost WC,N/A,Wayne Fontes
+41,1981.0,John McKay,16,9,7,0,0.563,1.0,0.0,1.0,Lost Div,N/A,Tom Bass
+42,1980.0,John McKay,16,5,10,1,0.344,0.0,0.0,0.0,N/A,N/A,Tom Bass
+43,1979.0,John McKay,16,10,6,0,0.625,2.0,1.0,1.0,Lost Conf,N/A,Tom Bass
+44,1978.0,John McKay,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Joe Gibbs,Tom Bass
+45,1977.0,John McKay,14,2,12,0,0.143,0.0,0.0,0.0,N/A,N/A,Abe Gibron
+46,1976.0,John McKay,14,0,14,0,0.0,0.0,0.0,0.0,N/A,John Rauch,Abe Gibron

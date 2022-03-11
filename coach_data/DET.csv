@@ -1,0 +1,99 @@
+,year,coach,regular_season_games,wins,losses,ties,win_percentage,playoff_games,playoff_wins,playoff_losses,playoff_result,coordinator_offense,coordinator_defense
+0,2021.0,Dan Campbell,17,3,13,1,0.206,N/A,N/A,N/A,N/A,Anthony Lynn,Aaron Glenn
+1,2020.0,Darrell Bevell,5,1,4,0,0.2,N/A,N/A,N/A,N/A,N/A,Cory Undlin
+2,N/A,Matt Patricia,11,4,7,0,0.364,N/A,N/A,N/A,N/A,Darrell Bevell,Cory Undlin
+3,2019.0,Matt Patricia,16,3,12,1,0.219,N/A,N/A,N/A,N/A,Darrell Bevell,Paul Pasqualoni
+4,2018.0,Matt Patricia,16,6,10,0,0.375,N/A,N/A,N/A,N/A,Jim Bob Cooter,Paul Pasqualoni
+5,2017.0,Jim Caldwell,16,9,7,0,0.563,N/A,N/A,N/A,N/A,Jim Bob Cooter,Teryl Austin
+6,2016.0,Jim Caldwell,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Jim Bob Cooter,Teryl Austin
+7,2015.0,Jim Caldwell,16,7,9,0,0.438,N/A,N/A,N/A,N/A,"Jim Bob Cooter, Joe Lombardi",Teryl Austin
+8,2014.0,Jim Caldwell,16,11,5,0,0.688,1.0,0.0,1.0,Lost WC,Joe Lombardi,Teryl Austin
+9,2013.0,Jim Schwartz,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Scott Linehan,Gunther Cunningham
+10,2012.0,Jim Schwartz,16,4,12,0,0.25,0.0,0.0,0.0,N/A,Scott Linehan,Gunther Cunningham
+11,2011.0,Jim Schwartz,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Scott Linehan,Gunther Cunningham
+12,2010.0,Jim Schwartz,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Scott Linehan,Gunther Cunningham
+13,2009.0,Jim Schwartz,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Scott Linehan,Gunther Cunningham
+14,2008.0,Rod Marinelli,16,0,16,0,0.0,0.0,0.0,0.0,N/A,Jim Colletto,Joe Barry
+15,2007.0,Rod Marinelli,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mike Martz,Joe Barry
+16,2006.0,Rod Marinelli,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Mike Martz,Donnie Henderson
+17,2005.0,Dick Jauron,5,1,4,0,0.2,0.0,0.0,0.0,N/A,"Greg Olson, Ted Tollner",N/A
+18,N/A,Steve Mariucci,11,4,7,0,0.364,0.0,0.0,0.0,N/A,"Greg Olson, Ted Tollner",Dick Jauron
+19,2004.0,Steve Mariucci,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Sherman Lewis,Dick Jauron
+20,2003.0,Steve Mariucci,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Sherman Lewis,Kurt Schottenheimer
+21,2002.0,Marty Mornhinweg,16,3,13,0,0.188,0.0,0.0,0.0,N/A,Maurice Carthon,Kurt Schottenheimer
+22,2001.0,Marty Mornhinweg,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Maurice Carthon,Vince Tobin
+23,2000.0,Gary Moeller,7,4,3,0,0.571,0.0,0.0,0.0,N/A,Sylvester Croom,Larry Peccatiello
+24,N/A,Bobby Ross,9,5,4,0,0.556,0.0,0.0,0.0,N/A,Sylvester Croom,Larry Peccatiello
+25,1999.0,Bobby Ross,16,8,8,0,0.5,1.0,0.0,1.0,Lost WC,Sylvester Croom,Larry Peccatiello
+26,1998.0,Bobby Ross,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Sylvester Croom,Larry Peccatiello
+27,1997.0,Bobby Ross,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Sylvester Croom,Larry Peccatiello
+28,1996.0,Wayne Fontes,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Tom Moore,Jim Eddy
+29,1995.0,Wayne Fontes,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,Tom Moore,Herb Paterra
+30,1994.0,Wayne Fontes,16,9,7,0,0.563,1.0,0.0,1.0,Lost WC,Dave Levy,Herb Paterra
+31,1993.0,Wayne Fontes,16,10,6,0,0.625,1.0,0.0,1.0,Lost WC,"Dan Henning, Dave Levy",Hank Bullough
+32,1992.0,Wayne Fontes,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Dan Henning,Woody Widenhofer
+33,1991.0,Wayne Fontes,16,12,4,0,0.75,2.0,1.0,1.0,Lost Conf,Dave Levy,Woody Widenhofer
+34,1990.0,Wayne Fontes,16,6,10,0,0.375,0.0,0.0,0.0,N/A,Mouse Davis,Woody Widenhofer
+35,1989.0,Wayne Fontes,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Mouse Davis,Woody Widenhofer
+36,1988.0,Wayne Fontes,5,2,3,0,0.4,0.0,0.0,0.0,N/A,"Bob Baker, Lew Carpenter",N/A
+37,N/A,Darryl Rogers,11,2,9,0,0.182,0.0,0.0,0.0,N/A,"Bob Baker, Lew Carpenter",Wayne Fontes
+38,1987.0,Darryl Rogers,15,4,11,0,0.267,0.0,0.0,0.0,N/A,Bob Baker,Wayne Fontes
+39,1986.0,Darryl Rogers,16,5,11,0,0.313,0.0,0.0,0.0,N/A,Bob Baker,Wayne Fontes
+40,1985.0,Darryl Rogers,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bob Baker,Wayne Fontes
+41,1984.0,Monte Clark,16,4,11,1,0.281,0.0,0.0,0.0,N/A,Bill Nelsen,Ed Beard
+42,1983.0,Monte Clark,16,9,7,0,0.563,1.0,0.0,1.0,Lost Div,Ted Marchibroda,Ed Beard
+43,1982.0,Monte Clark,9,4,5,0,0.444,1.0,0.0,1.0,Lost WC,Ted Marchibroda,Maxie Baughan
+44,1981.0,Monte Clark,16,8,8,0,0.5,0.0,0.0,0.0,N/A,Bob Schnelker,Maxie Baughan
+45,1980.0,Monte Clark,16,9,7,0,0.563,0.0,0.0,0.0,N/A,Bob Schnelker,Maxie Baughan
+46,1979.0,Monte Clark,16,2,14,0,0.125,0.0,0.0,0.0,N/A,Bob Schnelker,N/A
+47,1978.0,Monte Clark,16,7,9,0,0.438,0.0,0.0,0.0,N/A,Bob Schnelker,N/A
+48,1977.0,Tommy Hudspeth,14,6,8,0,0.429,0.0,0.0,0.0,N/A,Ed Hughes,Fritz Shurmur
+49,1976.0,Tommy Hudspeth,10,5,5,0,0.5,0.0,0.0,0.0,N/A,Ken Shipp,N/A
+50,N/A,Rick Forzano,4,1,3,0,0.25,0.0,0.0,0.0,N/A,Ken Shipp,N/A
+51,1975.0,Rick Forzano,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+52,1974.0,Rick Forzano,14,7,7,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+53,1973.0,Don McCafferty,14,6,7,1,0.464,0.0,0.0,0.0,N/A,N/A,N/A
+54,1972.0,Joe Schmidt,14,8,5,1,0.607,0.0,0.0,0.0,N/A,Bill McPeak,Jim David
+55,1971.0,Joe Schmidt,14,7,6,1,0.538,0.0,0.0,0.0,N/A,Bill McPeak,Jim David
+56,1970.0,Joe Schmidt,14,10,4,0,0.714,1.0,0.0,1.0,Lost Div,Bill McPeak,Jim David
+57,1969.0,Joe Schmidt,14,9,4,1,0.692,0.0,0.0,0.0,N/A,Bill McPeak,Jim David
+58,1968.0,Joe Schmidt,14,4,8,2,0.333,0.0,0.0,0.0,N/A,Bill McPeak,Jim David
+59,1967.0,Joe Schmidt,14,5,7,2,0.417,0.0,0.0,0.0,N/A,Bill McPeak,Jim David
+60,1966.0,Harry Gilmer,14,4,9,1,0.308,0.0,0.0,0.0,N/A,N/A,N/A
+61,1965.0,Harry Gilmer,14,6,7,1,0.462,0.0,0.0,0.0,N/A,N/A,N/A
+62,1964.0,George Wilson,14,7,5,2,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+63,1963.0,George Wilson,14,5,8,1,0.385,0.0,0.0,0.0,N/A,N/A,N/A
+64,1962.0,George Wilson,14,11,3,0,0.786,0.0,0.0,0.0,N/A,N/A,Don Shula
+65,1961.0,George Wilson,14,8,5,1,0.615,0.0,0.0,0.0,N/A,N/A,Don Shula
+66,1960.0,George Wilson,12,7,5,0,0.583,0.0,0.0,0.0,N/A,N/A,N/A
+67,1959.0,George Wilson,12,3,8,1,0.273,0.0,0.0,0.0,N/A,N/A,Buster Ramsey
+68,1958.0,George Wilson,12,4,7,1,0.364,0.0,0.0,0.0,N/A,N/A,Buster Ramsey
+69,1957.0,George Wilson,12,8,4,0,0.667,2.0,2.0,0.0,Won Champ,N/A,Buster Ramsey
+70,1956.0,Buddy Parker,12,9,3,0,0.75,0.0,0.0,0.0,N/A,N/A,Buster Ramsey
+71,1955.0,Buddy Parker,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,Buster Ramsey
+72,1954.0,Buddy Parker,12,9,2,1,0.818,1.0,0.0,1.0,Lost Champ,N/A,Buster Ramsey
+73,1953.0,Buddy Parker,12,10,2,0,0.833,1.0,1.0,0.0,Won Champ,N/A,Buster Ramsey
+74,1952.0,Buddy Parker,12,9,3,0,0.75,2.0,2.0,0.0,Won Champ,N/A,Buster Ramsey
+75,1951.0,Buddy Parker,12,7,4,1,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+76,1950.0,Bo McMillin,12,6,6,0,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+77,1949.0,Bo McMillin,12,4,8,0,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+78,1948.0,Bo McMillin,12,2,10,0,0.167,0.0,0.0,0.0,N/A,N/A,N/A
+79,1947.0,Gus Dorais,12,3,9,0,0.25,0.0,0.0,0.0,N/A,N/A,N/A
+80,1946.0,Gus Dorais,11,1,10,0,0.091,0.0,0.0,0.0,N/A,N/A,N/A
+81,1945.0,Gus Dorais,10,7,3,0,0.7,0.0,0.0,0.0,N/A,N/A,N/A
+82,1944.0,Gus Dorais,10,6,3,1,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+83,1943.0,Gus Dorais,10,3,6,1,0.333,0.0,0.0,0.0,N/A,N/A,N/A
+84,1942.0,Bull Karcis,8,0,8,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+85,N/A,Bill Edwards,3,0,3,0,0.0,0.0,0.0,0.0,N/A,N/A,N/A
+86,1941.0,Bill Edwards,11,4,6,1,0.4,0.0,0.0,0.0,N/A,N/A,N/A
+87,1940.0,Potsy Clark,11,5,5,1,0.5,0.0,0.0,0.0,N/A,N/A,N/A
+88,1939.0,Gus Henderson,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+89,1938.0,Dutch Clark,11,7,4,0,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+90,1937.0,Dutch Clark,11,7,4,0,0.636,0.0,0.0,0.0,N/A,N/A,N/A
+91,1936.0,Potsy Clark,12,8,4,0,0.667,0.0,0.0,0.0,N/A,N/A,N/A
+92,1935.0,Potsy Clark,12,7,3,2,0.7,1.0,1.0,0.0,Won Champ,N/A,N/A
+93,1934.0,Potsy Clark,13,10,3,0,0.769,0.0,0.0,0.0,N/A,N/A,N/A
+94,1933.0,Potsy Clark,11,6,5,0,0.545,0.0,0.0,0.0,N/A,N/A,N/A
+95,1932.0,Potsy Clark,12,6,2,4,0.75,0.0,0.0,0.0,N/A,N/A,N/A
+96,1931.0,Potsy Clark,14,11,3,0,0.786,0.0,0.0,0.0,N/A,N/A,N/A
+97,1930.0,Hal Griffen,14,5,6,3,0.455,0.0,0.0,0.0,N/A,N/A,N/A
